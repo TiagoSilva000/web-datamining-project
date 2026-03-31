@@ -1,0 +1,10 @@
+{
+  "input_triples": 50000,
+  "output_triples": 49253,
+  "entity_count": 26765,
+  "relation_count": 549,
+  "dropped": {
+    "literal_object": 746
+  },
+  "largest_component_nodes": 26765
+}
