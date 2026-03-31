@@ -1,0 +1,11 @@
+httpx
+requests
+trafilatura
+spacy
+pandas
+rdflib
+owlready2
+pykeen
+scikit-learn
+matplotlib
+requests
