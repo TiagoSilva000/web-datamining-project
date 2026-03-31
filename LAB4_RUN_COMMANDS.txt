@@ -1,0 +1,54 @@
+LAB 4 RUN COMMANDS
+===================
+
+1) Build the initial private RDF KB
+py src/kg/build_initial_kb.py ^
+  --entities data/extracted_knowledge.csv ^
+  --relations data/relation_candidates.csv ^
+  --initial-kb kg_artifacts/initial_kb.ttl ^
+  --ontology kg_artifacts/ontology.ttl ^
+  --stats kg_artifacts/kb_stats_initial.json ^
+  --min-relation-confidence 0.50
+
+Git Bash version:
+py src/kg/build_initial_kb.py \
+  --entities data/extracted_knowledge.csv \
+  --relations data/relation_candidates.csv \
+  --initial-kb kg_artifacts/initial_kb.ttl \
+  --ontology kg_artifacts/ontology.ttl \
+  --stats kg_artifacts/kb_stats_initial.json \
+  --min-relation-confidence 0.50
+
+2) Align entities and predicates with Wikidata
+py src/kg/align_wikidata.py \
+  --entities data/extracted_knowledge.csv \
+  --relations data/relation_candidates.csv \
+  --entity-links-out kg_artifacts/entity_links.csv \
+  --predicate-links-out kg_artifacts/predicate_alignment.csv \
+  --alignment-out kg_artifacts/alignment.ttl \
+  --min-entity-confidence 0.72 \
+  --min-property-confidence 0.75 \
+  --delay 0.15
+
+3) Expand the KB with Wikidata direct triples
+py src/kg/expand_kb.py \
+  --initial-kb kg_artifacts/initial_kb.ttl \
+  --alignment kg_artifacts/alignment.ttl \
+  --entity-links kg_artifacts/entity_links.csv \
+  --output kg_artifacts/expanded.nt \
+  --stats kg_artifacts/kb_stats_expanded.json \
+  --target-triples 50000 \
+  --max-depth 2 \
+  --per-entity-limit 250 \
+  --batch-size 10 \
+  --delay 0.20
+
+Expected Lab 4 artifact files:
+- kg_artifacts/initial_kb.ttl
+- kg_artifacts/ontology.ttl
+- kg_artifacts/alignment.ttl
+- kg_artifacts/entity_links.csv
+- kg_artifacts/predicate_alignment.csv
+- kg_artifacts/expanded.nt
+- kg_artifacts/kb_stats_initial.json
+- kg_artifacts/kb_stats_expanded.json

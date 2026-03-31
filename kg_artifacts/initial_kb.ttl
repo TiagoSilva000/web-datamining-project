@@ -1,0 +1,1927 @@
+@prefix ent: <http://example.org/webdatamining/entity/> .
+@prefix ex: <http://example.org/webdatamining/> .
+@prefix ont: <http://example.org/webdatamining/ontology/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix prop: <http://example.org/webdatamining/property/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ent:14-months a ont:DateEntity,
+        owl:NamedIndividual ;
+    rdfs:label "14 months" ;
+    ex:mentionCount 1 .
+
+ent:1925 a ont:DateEntity,
+        owl:NamedIndividual ;
+    rdfs:label "1925" ;
+    ex:mentionCount 1 .
+
+ent:1929 a ont:DateEntity,
+        owl:NamedIndividual ;
+    rdfs:label "1929" ;
+    ex:mentionCount 2 .
+
+ent:1933 a ont:DateEntity,
+        owl:NamedIndividual ;
+    rdfs:label "1933" ;
+    ex:mentionCount 1 .
+
+ent:1934 a ont:DateEntity,
+        owl:NamedIndividual ;
+    rdfs:label "1934" ;
+    ex:mentionCount 1 .
+
+ent:1936 a ont:DateEntity,
+        owl:NamedIndividual ;
+    rdfs:label "1936" ;
+    ex:mentionCount 2 .
+
+ent:1940 a ont:DateEntity,
+        owl:NamedIndividual ;
+    rdfs:label "1940" ;
+    ex:mentionCount 1 .
+
+ent:1943 a ont:DateEntity,
+        owl:NamedIndividual ;
+    rdfs:label "1943" ;
+    ex:mentionCount 1 .
+
+ent:1944-46 a ont:DateEntity,
+        owl:NamedIndividual ;
+    rdfs:label "1944–46" ;
+    ex:mentionCount 1 .
+
+ent:1945 a ont:DateEntity,
+        owl:NamedIndividual ;
+    rdfs:label "1945" ;
+    ex:mentionCount 1 .
+
+ent:1947 a ont:DateEntity,
+        owl:NamedIndividual ;
+    rdfs:label "1947" ;
+    ex:mentionCount 2 .
+
+ent:1948 a ont:DateEntity,
+        owl:NamedIndividual ;
+    rdfs:label "1948" ;
+    ex:mentionCount 1 .
+
+ent:1949 a ont:DateEntity,
+        owl:NamedIndividual ;
+    rdfs:label "1949" ;
+    ex:mentionCount 1 .
+
+ent:1950 a ont:DateEntity,
+        owl:NamedIndividual ;
+    rdfs:label "1950" ;
+    ex:mentionCount 1 .
+
+ent:1950s a ont:DateEntity,
+        owl:NamedIndividual ;
+    rdfs:label "1950s" ;
+    ex:mentionCount 1 .
+
+ent:1952 a ont:DateEntity,
+        owl:NamedIndividual ;
+    rdfs:label "1952" ;
+    ex:mentionCount 1 .
+
+ent:1954 a ont:DateEntity,
+        owl:NamedIndividual ;
+    rdfs:label "1954" ;
+    ex:mentionCount 2 .
+
+ent:1968 a ont:DateEntity,
+        owl:NamedIndividual ;
+    rdfs:label "1968" ;
+    ex:mentionCount 1 .
+
+ent:1969 a ont:DateEntity,
+        owl:NamedIndividual ;
+    rdfs:label "1969" ;
+    ex:mentionCount 2 .
+
+ent:1976 a ont:DateEntity,
+        owl:NamedIndividual ;
+    rdfs:label "1976" ;
+    ex:mentionCount 1 .
+
+ent:1983 a ont:DateEntity,
+        owl:NamedIndividual ;
+    rdfs:label "1983" ;
+    ex:mentionCount 1 .
+
+ent:1997 a ont:DateEntity,
+        owl:NamedIndividual ;
+    rdfs:label "1997" ;
+    ex:mentionCount 2 .
+
+ent:1998 a ont:DateEntity,
+        owl:NamedIndividual ;
+    rdfs:label "1998" ;
+    ex:mentionCount 1 .
+
+ent:2000 a ont:DateEntity,
+        owl:NamedIndividual ;
+    rdfs:label "2000" ;
+    ex:mentionCount 2 .
+
+ent:2001-a-space-odyssey a ont:Work,
+        owl:NamedIndividual ;
+    rdfs:label "2001: A Space Odyssey" ;
+    ex:mentionCount 1 .
+
+ent:2005 a ont:DateEntity,
+        owl:NamedIndividual ;
+    rdfs:label "2005" ;
+    ex:mentionCount 2 .
+
+ent:2006 a ont:DateEntity,
+        owl:NamedIndividual ;
+    rdfs:label "2006" ;
+    ex:mentionCount 3 .
+
+ent:2008 a ont:DateEntity,
+        owl:NamedIndividual ;
+    rdfs:label "2008" ;
+    ex:mentionCount 1 .
+
+ent:2012 a ont:DateEntity,
+        owl:NamedIndividual ;
+    rdfs:label "2012" ;
+    ex:mentionCount 4 .
+
+ent:2013 a ont:DateEntity,
+        owl:NamedIndividual ;
+    rdfs:label "2013" ;
+    ex:mentionCount 2 .
+
+ent:2016 a ont:DateEntity,
+        owl:NamedIndividual ;
+    rdfs:label "2016" ;
+    ex:mentionCount 1 .
+
+ent:2017 a ont:DateEntity,
+        owl:NamedIndividual ;
+    rdfs:label "2017" ;
+    ex:mentionCount 3 .
+
+ent:2019 a ont:DateEntity,
+        owl:NamedIndividual ;
+    rdfs:label "2019" ;
+    ex:mentionCount 3 .
+
+ent:2020 a ont:DateEntity,
+        owl:NamedIndividual ;
+    rdfs:label "2020" ;
+    ex:mentionCount 2 .
+
+ent:2023 a ont:DateEntity,
+        owl:NamedIndividual ;
+    rdfs:label "2023" ;
+    ex:mentionCount 6 .
+
+ent:2025 a ont:DateEntity,
+        owl:NamedIndividual ;
+    rdfs:label "2025" ;
+    ex:mentionCount 4 .
+
+ent:2026 a ont:DateEntity,
+        owl:NamedIndividual ;
+    rdfs:label "2026" ;
+    ex:mentionCount 2 .
+
+ent:2027 a ont:DateEntity,
+        owl:NamedIndividual ;
+    rdfs:label "2027" ;
+    ex:mentionCount 1 .
+
+ent:2029 a ont:DateEntity,
+        owl:NamedIndividual ;
+    rdfs:label "2029" ;
+    ex:mentionCount 2 .
+
+ent:60-years a ont:DateEntity,
+        owl:NamedIndividual ;
+    rdfs:label "60 years" ;
+    ex:mentionCount 1 .
+
+ent:a-decade-prior a ont:DateEntity,
+        owl:NamedIndividual ;
+    rdfs:label "a decade prior" ;
+    ex:mentionCount 1 .
+
+ent:a-golden-globe-award a ont:Work,
+        owl:NamedIndividual ;
+    rdfs:label "a Golden Globe Award" ;
+    ex:mentionCount 1 .
+
+ent:a-o-scott a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "A.O. Scott" ;
+    ex:mentionCount 1 .
+
+ent:academy a ont:Organization,
+        owl:NamedIndividual ;
+    rdfs:label "Academy" ;
+    ex:mentionCount 2 .
+
+ent:academy-award a ont:Work,
+        owl:NamedIndividual ;
+    rdfs:label "Academy Award" ;
+    ex:mentionCount 5 .
+
+ent:academy-awards-of-merit a ont:Work,
+        owl:NamedIndividual ;
+    rdfs:label "Academy Awards of Merit" ;
+    ex:mentionCount 2 .
+
+ent:academy-awardsnominations a ont:Work,
+        owl:NamedIndividual ;
+    rdfs:label "Academy Awardsnominations" ;
+    ex:mentionCount 1 .
+
+ent:adolf-hitler a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Adolf Hitler" ;
+    ex:mentionCount 1 .
+
+ent:alamogordo a ont:Place,
+        owl:NamedIndividual ;
+    rdfs:label "Alamogordo" ;
+    ex:mentionCount 1 .
+
+ent:albert-einstein a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Albert Einstein" ;
+    ex:mentionCount 1 .
+
+ent:albuquerque a ont:Place,
+        owl:NamedIndividual ;
+    rdfs:label "Albuquerque" ;
+    ex:mentionCount 1 .
+
+ent:all-about-eve a ont:Work,
+        owl:NamedIndividual ;
+    rdfs:label "All About Eve" ;
+    ex:mentionCount 1 .
+
+ent:amc a ont:Organization,
+        owl:NamedIndividual ;
+    rdfs:label "AMC" ;
+    ex:mentionCount 4 ;
+    prop:signIn ent:2011 .
+
+ent:amelia-brand a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Amelia Brand" ;
+    ex:mentionCount 2 .
+
+ent:american-prometheus-the-triumph-and-tragedy a ont:Work,
+        owl:NamedIndividual ;
+    rdfs:label "American Prometheus: The Triumph and Tragedy" ;
+    ex:mentionCount 1 .
+
+ent:an-oscar-and a ont:Work,
+        owl:NamedIndividual ;
+    rdfs:label "an Oscar and" ;
+    ex:mentionCount 1 .
+
+ent:anne-hathaway a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Anne Hathaway" ;
+    ex:mentionCount 2 .
+
+ent:annual a ont:DateEntity,
+        owl:NamedIndividual ;
+    rdfs:label "annual" ;
+    ex:mentionCount 1 .
+
+ent:annually a ont:DateEntity,
+        owl:NamedIndividual ;
+    rdfs:label "annually" ;
+    ex:mentionCount 3 .
+
+ent:apollo a ont:Organization,
+        owl:NamedIndividual ;
+    rdfs:label "Apollo" ;
+    ex:mentionCount 1 .
+
+ent:april-22-1904 a ont:DateEntity,
+        owl:NamedIndividual ;
+    rdfs:label "April 22, 1904" ;
+    ex:mentionCount 1 .
+
+ent:april-3-1930 a ont:DateEntity,
+        owl:NamedIndividual ;
+    rdfs:label "April 3, 1930" ;
+    ex:mentionCount 1 .
+
+ent:april-reign a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "April Reign" ;
+    ex:mentionCount 1 .
+
+ent:at-least-one-week a ont:DateEntity,
+        owl:NamedIndividual ;
+    rdfs:label "at least one week" ;
+    ex:mentionCount 1 .
+
+ent:august-2018 a ont:DateEntity,
+        owl:NamedIndividual ;
+    rdfs:label "August 2018" ;
+    ex:mentionCount 1 .
+
+ent:banks a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Banks" ;
+    ex:mentionCount 1 .
+
+ent:barbenheimer a ont:Work,
+        owl:NamedIndividual ;
+    rdfs:label "Barbenheimer" ;
+    ex:mentionCount 1 .
+
+ent:barbie a ont:Work,
+        owl:NamedIndividual ;
+    rdfs:label "Barbie" ;
+    ex:mentionCount 1 .
+
+ent:batman a ont:Organization,
+        ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Batman" ;
+    ex:mentionCount 8 .
+
+ent:batman-begins a ont:Work,
+        owl:NamedIndividual ;
+    rdfs:label "Batman Begins" ;
+    ex:mentionCount 1 .
+
+ent:batman-robin a ont:Work,
+        owl:NamedIndividual ;
+    rdfs:label "Batman & Robin" ;
+    ex:mentionCount 1 .
+
+ent:bette-davis a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Bette Davis" ;
+    ex:mentionCount 3 .
+
+ent:better-call-saul a ont:Work,
+        owl:NamedIndividual ;
+    rdfs:label "Better Call Saul" ;
+    ex:mentionCount 1 .
+
+ent:between-august-1-1927 a ont:DateEntity,
+        owl:NamedIndividual ;
+    rdfs:label "between August 1, 1927" ;
+    ex:mentionCount 1 .
+
+ent:between-january-1-and-midnight-of-december-31-of-that-year a ont:DateEntity,
+        owl:NamedIndividual ;
+    rdfs:label "between January 1 and midnight of December 31 of that year" ;
+    ex:mentionCount 1 .
+
+ent:beverly-hills a ont:Place,
+        owl:NamedIndividual ;
+    rdfs:label "Beverly Hills" ;
+    ex:mentionCount 1 .
+
+ent:billy-crystal a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Billy Crystal" ;
+    ex:mentionCount 1 .
+
+ent:bob-hope a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Bob Hope" ;
+    ex:mentionCount 1 .
+
+ent:bob-odenkirk a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Bob Odenkirk" ;
+    ex:mentionCount 1 .
+
+ent:brand a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Brand" ;
+    ex:mentionCount 5 ;
+    prop:confessTo ent:murph ;
+    prop:rescue ent:cooper .
+
+ent:brian-de-palma-s a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Brian De Palma’s" ;
+    ex:mentionCount 1 .
+
+ent:britannica a ont:Organization,
+        owl:NamedIndividual ;
+    rdfs:label "Britannica" ;
+    ex:mentionCount 1 .
+
+ent:britannica-premium a ont:Organization,
+        owl:NamedIndividual ;
+    rdfs:label "Britannica Premium" ;
+    ex:mentionCount 4 .
+
+ent:bryan-cranston a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Bryan Cranston" ;
+    ex:mentionCount 1 .
+
+ent:california a ont:Place,
+        owl:NamedIndividual ;
+    rdfs:label "California" ;
+    ex:mentionCount 1 .
+
+ent:cassandra-kulukundis a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Cassandra Kulukundis" ;
+    ex:mentionCount 1 .
+
+ent:cedric-gibbons a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Cedric Gibbons" ;
+    ex:mentionCount 1 .
+
+ent:chicago a ont:Place,
+        owl:NamedIndividual ;
+    rdfs:label "Chicago" ;
+    ex:mentionCount 1 .
+
+ent:chips a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Chips" ;
+    ex:mentionCount 2 .
+
+ent:christian-bale a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Christian Bale" ;
+    ex:mentionCount 1 .
+
+ent:christopher a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Christopher" ;
+    ex:mentionCount 1 .
+
+ent:christopher-nolan a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Christopher Nolan" ;
+    ex:mentionCount 8 ;
+    prop:tell ent:the-hollywood-reporter ;
+    prop:tellIn ent:2015 .
+
+ent:christopher-nolan-s a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Christopher Nolan's",
+        "Christopher Nolan’s" ;
+    ex:mentionCount 1,
+        2 .
+
+ent:cpusa a ont:Organization,
+        owl:NamedIndividual ;
+    rdfs:label "CPUSA" ;
+    ex:mentionCount 2 .
+
+ent:cranston a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Cranston" ;
+    ex:mentionCount 4 .
+
+ent:david-gyasi a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "David Gyasi" ;
+    ex:mentionCount 1 .
+
+ent:dean-norris-an a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Dean Norris)—an" ;
+    ex:mentionCount 1 .
+
+ent:december-21-1953 a ont:DateEntity,
+        owl:NamedIndividual ;
+    rdfs:label "December 21, 1953" ;
+    ex:mentionCount 1 .
+
+ent:delroy-lindo a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Delroy Lindo" ;
+    ex:mentionCount 1 .
+
+ent:donald a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Donald" ;
+    ex:mentionCount 1 .
+
+ent:downey a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Downey" ;
+    ex:mentionCount 1 .
+
+ent:doyle a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Doyle" ;
+    ex:mentionCount 2 .
+
+ent:dunkirk a ont:Work,
+        owl:NamedIndividual ;
+    rdfs:label "Dunkirk" ;
+    ex:mentionCount 4 .
+
+ent:early-20th-century a ont:DateEntity,
+        owl:NamedIndividual ;
+    rdfs:label "early 20th-century" ;
+    ex:mentionCount 1 .
+
+ent:el-camino-a-breaking-bad-movie a ont:Work,
+        owl:NamedIndividual ;
+    rdfs:label "El Camino: A Breaking Bad Movie" ;
+    ex:mentionCount 1 .
+
+ent:ella-friedman a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Ella Friedman" ;
+    ex:mentionCount 1 .
+
+ent:ellen-burstyn a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Ellen Burstyn" ;
+    ex:mentionCount 1 .
+
+ent:emily-blunt a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Emily Blunt" ;
+    ex:mentionCount 1 .
+
+ent:emma-thomas a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Emma Thomas" ;
+    ex:mentionCount 1 .
+
+ent:energy a ont:Organization,
+        owl:NamedIndividual ;
+    rdfs:label "Energy" ;
+    ex:mentionCount 1 .
+
+ent:england a ont:Place,
+        owl:NamedIndividual ;
+    rdfs:label "England" ;
+    ex:mentionCount 2 .
+
+ent:ernest-rutherford a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Ernest Rutherford" ;
+    ex:mentionCount 1 .
+
+ent:esposito a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Esposito" ;
+    ex:mentionCount 1 .
+
+ent:eugene-wigner a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Eugene Wigner" ;
+    ex:mentionCount 1 .
+
+ent:fbi a ont:Organization,
+        owl:NamedIndividual ;
+    rdfs:label "FBI" ;
+    ex:mentionCount 2 .
+
+ent:february-18-1967 a ont:DateEntity,
+        owl:NamedIndividual ;
+    rdfs:label "February 18, 1967" ;
+    ex:mentionCount 1 .
+
+ent:florence-pugh a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Florence Pugh" ;
+    ex:mentionCount 1 .
+
+ent:following a ont:Work,
+        owl:NamedIndividual ;
+    rdfs:label "Following" ;
+    ex:mentionCount 2 .
+
+ent:france a ont:Place,
+        owl:NamedIndividual ;
+    rdfs:label "France" ;
+    ex:mentionCount 1 .
+
+ent:gary-oldman a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Gary Oldman" ;
+    ex:mentionCount 1 .
+
+ent:george-lucas-s a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "George Lucas’s" ;
+    ex:mentionCount 2 .
+
+ent:germany a ont:Place,
+        owl:NamedIndividual ;
+    rdfs:label "Germany" ;
+    ex:mentionCount 4 .
+
+ent:giancarlo-esposito a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Giancarlo Esposito" ;
+    ex:mentionCount 1 .
+
+ent:gibbons a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Gibbons" ;
+    ex:mentionCount 1 .
+
+ent:gilligan a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Gilligan" ;
+    ex:mentionCount 7 ;
+    prop:serveTo ent:breaking-bad .
+
+ent:goodbye-mr-chips a ont:Work,
+        owl:NamedIndividual ;
+    rdfs:label "Goodbye, Mr. Chips" ;
+    ex:mentionCount 1 .
+
+ent:gotham-city a ont:Place,
+        owl:NamedIndividual ;
+    rdfs:label "Gotham City" ;
+    ex:mentionCount 1 .
+
+ent:greta-gerwig-s a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Greta Gerwig’s" ;
+    ex:mentionCount 1 .
+
+ent:gunn a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Gunn" ;
+    ex:mentionCount 1 .
+
+ent:gus-fring a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Gus Fring" ;
+    ex:mentionCount 1 .
+
+ent:haileybury a ont:Organization,
+        owl:NamedIndividual ;
+    rdfs:label "Haileybury" ;
+    ex:mentionCount 1 .
+
+ent:hank-schrader a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Hank Schrader" ;
+    ex:mentionCount 1 .
+
+ent:harmon-oscar-nelson a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Harmon Oscar Nelson" ;
+    ex:mentionCount 3 .
+
+ent:harry-s-truman a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Harry S. Truman" ;
+    ex:mentionCount 1 .
+
+ent:harvard-university a ont:Organization,
+        owl:NamedIndividual ;
+    rdfs:label "Harvard University" ;
+    ex:mentionCount 1 .
+
+ent:heath-ledger a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Heath Ledger" ;
+    ex:mentionCount 1 .
+
+ent:hector a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Hector" ;
+    ex:mentionCount 1 .
+
+ent:heisenberg a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Heisenberg" ;
+    ex:mentionCount 1 .
+
+ent:hiroshima a ont:Place,
+        owl:NamedIndividual ;
+    rdfs:label "Hiroshima" ;
+    ex:mentionCount 2 .
+
+ent:hollywood a ont:Place,
+        owl:NamedIndividual ;
+    rdfs:label "Hollywood" ;
+    ex:mentionCount 3 .
+
+ent:hulu a ont:Organization,
+        owl:NamedIndividual ;
+    rdfs:label "Hulu" ;
+    ex:mentionCount 1 .
+
+ent:inception a ont:Work,
+        owl:NamedIndividual ;
+    rdfs:label "Inception" ;
+    ex:mentionCount 5 .
+
+ent:its-debut-season a ont:DateEntity,
+        owl:NamedIndividual ;
+    rdfs:label "its debut season" ;
+    ex:mentionCount 1 .
+
+ent:j-robert-oppenheimer a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "J. Robert Oppenheimer" ;
+    ex:mentionCount 10 ;
+    prop:doIn ent:the-manhattan-project .
+
+ent:j-robert-oppenheimer-s a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "J. Robert Oppenheimer’s" ;
+    ex:mentionCount 1 .
+
+ent:james-hilton a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "James Hilton" ;
+    ex:mentionCount 1 .
+
+ent:jane a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Jane" ;
+    ex:mentionCount 1 .
+
+ent:january-20-2008 a ont:DateEntity,
+        owl:NamedIndividual ;
+    rdfs:label "January 20, 2008" ;
+    ex:mentionCount 1 .
+
+ent:jean-tatlock a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Jean Tatlock" ;
+    ex:mentionCount 2 .
+
+ent:jennifer-granholm a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Jennifer Granholm" ;
+    ex:mentionCount 1 .
+
+ent:jesse a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Jesse" ;
+    ex:mentionCount 1 .
+
+ent:jesse-pinkman a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Jesse Pinkman" ;
+    ex:mentionCount 2 .
+
+ent:jesse-plemons a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Jesse Plemons" ;
+    ex:mentionCount 1 .
+
+ent:jessica-chastain a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Jessica Chastain" ;
+    ex:mentionCount 1 .
+
+ent:jesus a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Jesus" ;
+    ex:mentionCount 1 .
+
+ent:john-brand a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "John Brand" ;
+    ex:mentionCount 2 .
+
+ent:john-brand-s a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "John Brand’s" ;
+    ex:mentionCount 1 .
+
+ent:john-lithgow a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "John Lithgow" ;
+    ex:mentionCount 1 .
+
+ent:johnny-carson a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Johnny Carson" ;
+    ex:mentionCount 1 .
+
+ent:joker a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Joker" ;
+    ex:mentionCount 1 .
+
+ent:jonathan a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Jonathan" ;
+    ex:mentionCount 1 ;
+    prop:workOn ent:the-four-years .
+
+ent:jonathan-nolan a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Jonathan Nolan" ;
+    ex:mentionCount 2 .
+
+ent:joseph-stalin a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Joseph Stalin" ;
+    ex:mentionCount 1 .
+
+ent:julius-s-oppenheimer a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Julius S. Oppenheimer" ;
+    ex:mentionCount 1 .
+
+ent:july-16-1945 a ont:DateEntity,
+        owl:NamedIndividual ;
+    rdfs:label "July 16, 1945" ;
+    ex:mentionCount 1 .
+
+ent:july-30-1970 a ont:DateEntity,
+        owl:NamedIndividual ;
+    rdfs:label "July 30, 1970" ;
+    ex:mentionCount 1 .
+
+ent:july-31-1928 a ont:DateEntity,
+        owl:NamedIndividual ;
+    rdfs:label "July 31, 1928" ;
+    ex:mentionCount 1 .
+
+ent:kai-bird a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Kai Bird" ;
+    ex:mentionCount 1 .
+
+ent:katharine-puening a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Katharine Puening" ;
+    ex:mentionCount 1 .
+
+ent:kip-thorne a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Kip Thorne" ;
+    ex:mentionCount 1 .
+
+ent:kitty a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Kitty" ;
+    ex:mentionCount 1 .
+
+ent:kitty-oppenheimer a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Kitty Oppenheimer" ;
+    ex:mentionCount 2 .
+
+ent:kodak a ont:Organization,
+        owl:NamedIndividual ;
+    rdfs:label "Kodak" ;
+    ex:mentionCount 1 .
+
+ent:krysten-ritter a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Krysten Ritter" ;
+    ex:mentionCount 1 .
+
+ent:la-la-land a ont:Work,
+        owl:NamedIndividual ;
+    rdfs:label "La La Land" ;
+    ex:mentionCount 1 .
+
+ent:lazarus a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Lazarus" ;
+    ex:mentionCount 2 .
+
+ent:leo-szilard a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Leo Szilard" ;
+    ex:mentionCount 1 .
+
+ent:leonardo-dicaprio a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Leonardo DiCaprio" ;
+    ex:mentionCount 1 .
+
+ent:leslie-richard-groves a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Leslie Richard Groves" ;
+    ex:mentionCount 1 .
+
+ent:lewis-strauss a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Lewis Strauss" ;
+    ex:mentionCount 1 .
+
+ent:london a ont:Place,
+        owl:NamedIndividual ;
+    rdfs:label "London" ;
+    ex:mentionCount 4 .
+
+ent:los-alamos a ont:Place,
+        owl:NamedIndividual ;
+    rdfs:label "Los Alamos" ;
+    ex:mentionCount 3 .
+
+ent:los-angeles-county a ont:Place,
+        owl:NamedIndividual ;
+    rdfs:label "Los Angeles county" ;
+    ex:mentionCount 1 .
+
+ent:ludwig-g-ransson a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Ludwig Göransson" ;
+    ex:mentionCount 1 .
+
+ent:lyndon-b-johnson a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Lyndon B. Johnson" ;
+    ex:mentionCount 1 ;
+    prop:present ent:oppenheimer ;
+    prop:presentIn ent:1963 ;
+    prop:presentWith ent:the-enrico-fermi-award .
+
+ent:malcolm-in-the-middle a ont:Work,
+        owl:NamedIndividual ;
+    rdfs:label "Malcolm in the Middle" ;
+    ex:mentionCount 1 .
+
+ent:man-of-steel a ont:Work,
+        owl:NamedIndividual ;
+    rdfs:label "Man of Steel" ;
+    ex:mentionCount 1 .
+
+ent:mankind a ont:Work,
+        owl:NamedIndividual ;
+    rdfs:label "Mankind" ;
+    ex:mentionCount 1 ;
+    prop:bearOn ent:earth .
+
+ent:mann a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Mann" ;
+    ex:mentionCount 4 ;
+    prop:attack ent:cooper .
+
+ent:many-years a ont:DateEntity,
+        owl:NamedIndividual ;
+    rdfs:label "many years" ;
+    ex:mentionCount 1 .
+
+ent:margaret-herrick a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Margaret Herrick" ;
+    ex:mentionCount 3 ;
+    prop:lookLike ent:oscar .
+
+ent:margolis a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Margolis" ;
+    ex:mentionCount 1 .
+
+ent:mark-margolis a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Mark Margolis" ;
+    ex:mentionCount 1 .
+
+ent:martin-sherwin a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Martin Sherwin" ;
+    ex:mentionCount 1 .
+
+ent:matt-damon a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Matt Damon" ;
+    ex:mentionCount 2 .
+
+ent:matthew-mcconaughey a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Matthew McConaughey" ;
+    ex:mentionCount 1 .
+
+ent:may-16-1929 a ont:DateEntity,
+        owl:NamedIndividual ;
+    rdfs:label "May 16, 1929" ;
+    ex:mentionCount 1 .
+
+ent:may-1928 a ont:DateEntity,
+        owl:NamedIndividual ;
+    rdfs:label "May 1928" ;
+    ex:mentionCount 2 .
+
+ent:mccarthy a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "McCarthy" ;
+    ex:mentionCount 1 .
+
+ent:memento a ont:Work,
+        owl:NamedIndividual ;
+    rdfs:label "Memento" ;
+    ex:mentionCount 3 .
+
+ent:metro-goldwyn-mayer a ont:Organization,
+        owl:NamedIndividual ;
+    rdfs:label "Metro-Goldwyn-Mayer" ;
+    ex:mentionCount 1 .
+
+ent:mgm a ont:Organization,
+        owl:NamedIndividual ;
+    rdfs:label "MGM" ;
+    ex:mentionCount 1 .
+
+ent:michael-b-jordan a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Michael B. Jordan" ;
+    ex:mentionCount 1 .
+
+ent:michael-caine a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Michael Caine" ;
+    ex:mentionCount 1 .
+
+ent:mike-ehrmantraut a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Mike Ehrmantraut" ;
+    ex:mentionCount 1 .
+
+ent:murphy a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Murphy" ;
+    ex:mentionCount 2 ;
+    prop:win ent:the-golden-globe .
+
+ent:nagasaki a ont:Place,
+        owl:NamedIndividual ;
+    rdfs:label "Nagasaki" ;
+    ex:mentionCount 2 .
+
+ent:nasa a ont:Organization,
+        owl:NamedIndividual ;
+    rdfs:label "NASA" ;
+    ex:mentionCount 7 .
+
+ent:national-football-conference a ont:Organization,
+        owl:NamedIndividual ;
+    rdfs:label "National Football Conference" ;
+    ex:mentionCount 1 .
+
+ent:nazis a ont:Thing,
+        owl:NamedIndividual ;
+    rdfs:label "Nazis" ;
+    ex:mentionCount 0 ;
+    prop:beRelation ent:first .
+
+ent:nbc a ont:Organization,
+        owl:NamedIndividual ;
+    rdfs:label "NBC" ;
+    ex:mentionCount 1 .
+
+ent:netflix a ont:Organization,
+        owl:NamedIndividual ;
+    rdfs:label "Netflix" ;
+    ex:mentionCount 3 .
+
+ent:new-jersey a ont:Place,
+        owl:NamedIndividual ;
+    rdfs:label "New Jersey" ;
+    ex:mentionCount 1 .
+
+ent:new-mexico a ont:Place,
+        owl:NamedIndividual ;
+    rdfs:label "New Mexico" ;
+    ex:mentionCount 5 .
+
+ent:new-york a ont:Place,
+        owl:NamedIndividual ;
+    rdfs:label "New York" ;
+    ex:mentionCount 2 .
+
+ent:new-york-city a ont:Place,
+        owl:NamedIndividual ;
+    rdfs:label "New York City" ;
+    ex:mentionCount 1 .
+
+ent:nobel-prize a ont:Work,
+        owl:NamedIndividual ;
+    rdfs:label "Nobel Prize" ;
+    ex:mentionCount 1 .
+
+ent:one a ont:Thing,
+        owl:NamedIndividual ;
+    rdfs:label "One" ;
+    ex:mentionCount 0 ;
+    prop:beRelation ent:strauss .
+
+ent:one-battle-after-another a ont:Work,
+        owl:NamedIndividual ;
+    rdfs:label "One Battle After Another" ;
+    ex:mentionCount 1 .
+
+ent:only-a-few-years-before a ont:DateEntity,
+        owl:NamedIndividual ;
+    rdfs:label "only a few years before" ;
+    ex:mentionCount 1 .
+
+ent:oscars a ont:Event,
+        ont:Work,
+        owl:NamedIndividual ;
+    rdfs:label "Oscars" ;
+    ex:mentionCount 7 .
+
+ent:oscarssowhite-hashtag a ont:Work,
+        owl:NamedIndividual ;
+    rdfs:label "#OscarsSoWhite hashtag" ;
+    ex:mentionCount 1 .
+
+ent:paul a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Paul" ;
+    ex:mentionCount 2 .
+
+ent:plot a ont:Work,
+        owl:NamedIndividual ;
+    rdfs:label "Plot" ;
+    ex:mentionCount 1 .
+
+ent:poland a ont:Place,
+        owl:NamedIndividual ;
+    rdfs:label "Poland" ;
+    ex:mentionCount 1 .
+
+ent:princeton a ont:Place,
+        owl:NamedIndividual ;
+    rdfs:label "Princeton" ;
+    ex:mentionCount 1 .
+
+ent:puening a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Puening" ;
+    ex:mentionCount 1 .
+
+ent:pulitzer-prize a ont:Work,
+        owl:NamedIndividual ;
+    rdfs:label "Pulitzer Prize" ;
+    ex:mentionCount 1 .
+
+ent:reception a ont:Work,
+        owl:NamedIndividual ;
+    rdfs:label "Reception" ;
+    ex:mentionCount 1 .
+
+ent:ridley-scott a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Ridley Scott" ;
+    ex:mentionCount 1 .
+
+ent:robert-downey-jr a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Robert Downey, Jr" ;
+    ex:mentionCount 1 .
+
+ent:romilly a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Romilly" ;
+    ex:mentionCount 2 .
+
+ent:ryan-coogler a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Ryan Coogler" ;
+    ex:mentionCount 1 .
+
+ent:salamanca a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Salamanca" ;
+    ex:mentionCount 1 .
+
+ent:santa-fe a ont:Place,
+        owl:NamedIndividual ;
+    rdfs:label "Santa Fe" ;
+    ex:mentionCount 1 .
+
+ent:saul-goodman a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Saul Goodman" ;
+    ex:mentionCount 2 .
+
+ent:scarface a ont:Person,
+        ont:Work,
+        owl:NamedIndividual ;
+    rdfs:label "Scarface" ;
+    ex:mentionCount 3 .
+
+ent:seinfeld a ont:Work,
+        owl:NamedIndividual ;
+    rdfs:label "Seinfeld" ;
+    ex:mentionCount 1 .
+
+ent:senate a ont:Organization,
+        owl:NamedIndividual ;
+    rdfs:label "Senate" ;
+    ex:mentionCount 2 .
+
+ent:september-29-2013 a ont:DateEntity,
+        owl:NamedIndividual ;
+    rdfs:label "September 29, 2013" ;
+    ex:mentionCount 1 .
+
+ent:sidney-skolsky a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Sidney Skolsky" ;
+    ex:mentionCount 3 .
+
+ent:sinners a ont:Work,
+        owl:NamedIndividual ;
+    rdfs:label "Sinners" ;
+    ex:mentionCount 1 .
+
+ent:skyler a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Skyler" ;
+    ex:mentionCount 1 .
+
+ent:sony-pictures-television a ont:Organization,
+        owl:NamedIndividual ;
+    rdfs:label "Sony Pictures Television" ;
+    ex:mentionCount 1 .
+
+ent:spain a ont:Place,
+        owl:NamedIndividual ;
+    rdfs:label "Spain" ;
+    ex:mentionCount 1 .
+
+ent:spielberg a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Spielberg" ;
+    ex:mentionCount 1 ;
+    prop:exitIn ent:2010 .
+
+ent:stanley-kubrick-s a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Stanley Kubrick’s" ;
+    ex:mentionCount 1 .
+
+ent:star-wars a ont:Work,
+        owl:NamedIndividual ;
+    rdfs:label "Star Wars" ;
+    ex:mentionCount 2 .
+
+ent:steven-spielberg a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Steven Spielberg" ;
+    ex:mentionCount 1 .
+
+ent:superman a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Superman" ;
+    ex:mentionCount 1 .
+
+ent:tatlock a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Tatlock" ;
+    ex:mentionCount 1 .
+
+ent:tenet a ont:Work,
+        owl:NamedIndividual ;
+    rdfs:label "Tenet" ;
+    ex:mentionCount 1 .
+
+ent:the-1920s a ont:DateEntity,
+        owl:NamedIndividual ;
+    rdfs:label "the 1920s" ;
+    ex:mentionCount 1 .
+
+ent:the-1930s a ont:Event,
+        owl:NamedIndividual ;
+    rdfs:label "the 1930s" ;
+    ex:mentionCount 1 .
+
+ent:the-1950s a ont:DateEntity,
+        owl:NamedIndividual ;
+    rdfs:label "the 1950s" ;
+    ex:mentionCount 1 .
+
+ent:the-20th-century a ont:DateEntity,
+        owl:NamedIndividual ;
+    rdfs:label "the 20th century" ;
+    ex:mentionCount 1 .
+
+ent:the-21st-century a ont:DateEntity,
+        owl:NamedIndividual ;
+    rdfs:label "the 21st century" ;
+    ex:mentionCount 2 .
+
+ent:the-academy-award a ont:Work,
+        owl:NamedIndividual ;
+    rdfs:label "the Academy Award" ;
+    ex:mentionCount 3 ;
+    prop:call ent:oscar .
+
+ent:the-academy-awards a ont:Work,
+        owl:NamedIndividual ;
+    rdfs:label "The Academy Awards",
+        "the Academy Awards" ;
+    ex:mentionCount 2,
+        3 ;
+    prop:broadcastOn ent:abc ;
+    prop:hold ent:2002 ;
+    prop:holdAt ent:the-dolby-theatre ;
+    prop:televiseIn ent:1953,
+        ent:the-united-states .
+
+ent:the-academy-of-motion-picture-arts-and-sciences a ont:Organization,
+        owl:NamedIndividual ;
+    rdfs:label "the Academy of Motion Picture Arts and Sciences" ;
+    ex:mentionCount 6 ;
+    prop:foundIn ent:1927 .
+
+ent:the-atomic-energy-commission a ont:Organization,
+        owl:NamedIndividual ;
+    rdfs:label "the Atomic Energy Commission" ;
+    ex:mentionCount 2 .
+
+ent:the-calendar-year a ont:DateEntity,
+        owl:NamedIndividual ;
+    rdfs:label "the calendar year" ;
+    ex:mentionCount 1 .
+
+ent:the-cavendish-laboratory a ont:Organization,
+        owl:NamedIndividual ;
+    rdfs:label "the Cavendish Laboratory" ;
+    ex:mentionCount 1 .
+
+ent:the-civil-war a ont:Event,
+        owl:NamedIndividual ;
+    rdfs:label "the Civil War" ;
+    ex:mentionCount 1 .
+
+ent:the-communist-party a ont:Organization,
+        owl:NamedIndividual ;
+    rdfs:label "the Communist Party" ;
+    ex:mentionCount 1 .
+
+ent:the-communist-party-of-the-united-states-of-america a ont:Organization,
+        owl:NamedIndividual ;
+    rdfs:label "the Communist Party of the United States of America" ;
+    ex:mentionCount 1 .
+
+ent:the-dark-knight a ont:Work,
+        owl:NamedIndividual ;
+    rdfs:label "The Dark Knight" ;
+    ex:mentionCount 2 .
+
+ent:the-dark-knight-rises a ont:Work,
+        owl:NamedIndividual ;
+    rdfs:label "The Dark Knight Rises" ;
+    ex:mentionCount 1 .
+
+ent:the-dark-knightthe a ont:Work,
+        owl:NamedIndividual ;
+    rdfs:label "The Dark KnightThe" ;
+    ex:mentionCount 1 .
+
+ent:the-department-of-energy a ont:Organization,
+        owl:NamedIndividual ;
+    rdfs:label "the Department of Energy" ;
+    ex:mentionCount 1 ;
+    prop:vacateIn ent:2022 .
+
+ent:the-drug-enforcement-administration a ont:Organization,
+        owl:NamedIndividual ;
+    rdfs:label "the Drug Enforcement Administration" ;
+    ex:mentionCount 1 .
+
+ent:the-early-days a ont:DateEntity,
+        owl:NamedIndividual ;
+    rdfs:label "the early days" ;
+    ex:mentionCount 1 .
+
+ent:the-federal-bureau-of-investigation a ont:Organization,
+        owl:NamedIndividual ;
+    rdfs:label "the Federal Bureau of Investigation" ;
+    ex:mentionCount 1 .
+
+ent:the-federation-of-american-scientists a ont:Organization,
+        owl:NamedIndividual ;
+    rdfs:label "The Federation of American Scientists" ;
+    ex:mentionCount 1 .
+
+ent:the-first-four-months a ont:DateEntity,
+        owl:NamedIndividual ;
+    rdfs:label "the first four months" ;
+    ex:mentionCount 1 .
+
+ent:the-following-year a ont:DateEntity,
+        owl:NamedIndividual ;
+    rdfs:label "The following year",
+        "the following year" ;
+    ex:mentionCount 1 .
+
+ent:the-general-advisory-committee a ont:Organization,
+        owl:NamedIndividual ;
+    rdfs:label "the General Advisory Committee" ;
+    ex:mentionCount 1 ;
+    prop:opposeIn ent:october-1949 .
+
+ent:the-golden-globe-awards a ont:Work,
+        owl:NamedIndividual ;
+    rdfs:label "the Golden Globe Awards" ;
+    ex:mentionCount 1 .
+
+ent:the-gordon-e-sawyer-award a ont:Work,
+        owl:NamedIndividual ;
+    rdfs:label "the Gordon E. Sawyer Award" ;
+    ex:mentionCount 1 .
+
+ent:the-irving-g-thalberg-memorial-award a ont:Work,
+        owl:NamedIndividual ;
+    rdfs:label "the Irving G. Thalberg Memorial Award" ;
+    ex:mentionCount 1 .
+
+ent:the-last-years a ont:DateEntity,
+        owl:NamedIndividual ;
+    rdfs:label "the last years" ;
+    ex:mentionCount 1 .
+
+ent:the-late-2010s a ont:DateEntity,
+        owl:NamedIndividual ;
+    rdfs:label "the late 2010s" ;
+    ex:mentionCount 1 .
+
+ent:the-late-20th-century a ont:DateEntity,
+        owl:NamedIndividual ;
+    rdfs:label "the late 20th century" ;
+    ex:mentionCount 1 .
+
+ent:the-los-alamos-laboratory a ont:Organization,
+        owl:NamedIndividual ;
+    rdfs:label "the Los Alamos Laboratory" ;
+    ex:mentionCount 2 .
+
+ent:the-los-angeles-times a ont:Organization,
+        owl:NamedIndividual ;
+    rdfs:label "the Los Angeles Times" ;
+    ex:mentionCount 1 .
+
+ent:the-manhattan-project-s a ont:Organization,
+        owl:NamedIndividual ;
+    rdfs:label "the Manhattan Project’s" ;
+    ex:mentionCount 1 .
+
+ent:the-new-york-times a ont:Organization,
+        owl:NamedIndividual ;
+    rdfs:label "The New York Times" ;
+    ex:mentionCount 1 .
+
+ent:the-new-york-times-s a ont:Organization,
+        owl:NamedIndividual ;
+    rdfs:label "The New York Times’s" ;
+    ex:mentionCount 2 .
+
+ent:the-next-decades a ont:DateEntity,
+        owl:NamedIndividual ;
+    rdfs:label "the next decades" ;
+    ex:mentionCount 1 .
+
+ent:the-prestige a ont:Work,
+        owl:NamedIndividual ;
+    rdfs:label "The Prestige" ;
+    ex:mentionCount 2 .
+
+ent:the-second-half-of-1928 a ont:DateEntity,
+        owl:NamedIndividual ;
+    rdfs:label "the second half of 1928" ;
+    ex:mentionCount 1 .
+
+ent:the-soviet-union a ont:Place,
+        owl:NamedIndividual ;
+    rdfs:label "the Soviet Union" ;
+    ex:mentionCount 1 .
+
+ent:the-u-s-army a ont:Organization,
+        owl:NamedIndividual ;
+    rdfs:label "the U.S. Army" ;
+    ex:mentionCount 1 ;
+    prop:giveIn ent:august-1942 .
+
+ent:the-u-s-atomic-energy-commission a ont:Organization,
+        owl:NamedIndividual ;
+    rdfs:label "the U.S. Atomic Energy Commission" ;
+    ex:mentionCount 1 .
+
+ent:the-u-s-department-of-energy a ont:Organization,
+        owl:NamedIndividual ;
+    rdfs:label "the U.S. Department of Energy" ;
+    ex:mentionCount 1 ;
+    prop:releaseIn ent:2014 .
+
+ent:the-university-of-california a ont:Organization,
+        owl:NamedIndividual ;
+    rdfs:label "the University of California" ;
+    ex:mentionCount 1 .
+
+ent:the-university-of-california-los-angeles a ont:Organization,
+        owl:NamedIndividual ;
+    rdfs:label "the University of California, Los Angeles" ;
+    ex:mentionCount 1 .
+
+ent:the-university-of-cambridge a ont:Organization,
+        owl:NamedIndividual ;
+    rdfs:label "the University of Cambridge" ;
+    ex:mentionCount 1 .
+
+ent:the-writers-guild-of-america a ont:Organization,
+        owl:NamedIndividual ;
+    rdfs:label "The Writers Guild of America" ;
+    ex:mentionCount 1 ;
+    prop:beginIn ent:november-2007 .
+
+ent:the-x a ont:Work,
+        owl:NamedIndividual ;
+    rdfs:label "The X" ;
+    ex:mentionCount 1 .
+
+ent:the-years a ont:DateEntity,
+        owl:NamedIndividual ;
+    rdfs:label "the years" ;
+    ex:mentionCount 2 .
+
+ent:timoth-e-chalamet a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Timothée Chalamet" ;
+    ex:mentionCount 1 .
+
+ent:titanic a ont:Work,
+        owl:NamedIndividual ;
+    rdfs:label "Titanic" ;
+    ex:mentionCount 1 .
+
+ent:todd-alquist a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Todd Alquist" ;
+    ex:mentionCount 1 .
+
+ent:tony-montana a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Tony Montana" ;
+    ex:mentionCount 1 .
+
+ent:two a ont:Thing,
+        owl:NamedIndividual ;
+    rdfs:label "two" ;
+    ex:mentionCount 0 ;
+    prop:workFor ent:about-three-years .
+
+ent:u-s a ont:Place,
+        owl:NamedIndividual ;
+    rdfs:label "U.S" ;
+    ex:mentionCount 8 .
+
+ent:u-s-army a ont:Organization,
+        owl:NamedIndividual ;
+    rdfs:label "U.S. Army" ;
+    ex:mentionCount 1 .
+
+ent:university-college-london a ont:Organization,
+        owl:NamedIndividual ;
+    rdfs:label "University College London" ;
+    ex:mentionCount 1 .
+
+ent:walter-white a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Walter White" ;
+    ex:mentionCount 1 .
+
+ent:walter-white-s a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Walter White's",
+        "Walter White’s" ;
+    ex:mentionCount 1 .
+
+ent:warner-brothers a ont:Organization,
+        owl:NamedIndividual ;
+    rdfs:label "Warner Brothers" ;
+    ex:mentionCount 1 ;
+    prop:enlist ent:nolan ;
+    prop:enlistIn ent:2003 .
+
+ent:wes-bentley-and a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Wes Bentley)—and" ;
+    ex:mentionCount 1 .
+
+ent:white a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "White" ;
+    ex:mentionCount 3 .
+
+ent:world-war-ii a ont:Event,
+        owl:NamedIndividual ;
+    rdfs:label "World War II" ;
+    ex:mentionCount 4 .
+
+ent:wunmi-mosaku a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Wunmi Mosaku" ;
+    ex:mentionCount 1 .
+
+ent:years a ont:DateEntity,
+        owl:NamedIndividual ;
+    rdfs:label "years" ;
+    ex:mentionCount 2 .
+
+ent:youtube a ont:Organization,
+        owl:NamedIndividual ;
+    rdfs:label "YouTube" ;
+    ex:mentionCount 2 .
+
+ent:1927 a ont:DateEntity,
+        owl:NamedIndividual ;
+    rdfs:label "1927" ;
+    ex:mentionCount 2 .
+
+ent:1939 a ont:DateEntity,
+        owl:NamedIndividual ;
+    rdfs:label "1939" ;
+    ex:mentionCount 3 .
+
+ent:1942 a ont:DateEntity,
+        owl:NamedIndividual ;
+    rdfs:label "1942" ;
+    ex:mentionCount 1 .
+
+ent:1953 a ont:DateEntity,
+        owl:NamedIndividual ;
+    rdfs:label "1953" ;
+    ex:mentionCount 2 .
+
+ent:1963 a ont:DateEntity,
+        owl:NamedIndividual ;
+    rdfs:label "1963" ;
+    ex:mentionCount 1 .
+
+ent:1966 a ont:DateEntity,
+        owl:NamedIndividual ;
+    rdfs:label "1966" ;
+    ex:mentionCount 1 .
+
+ent:2002 a ont:DateEntity,
+        owl:NamedIndividual ;
+    rdfs:label "2002" ;
+    ex:mentionCount 3 .
+
+ent:2003 a ont:DateEntity,
+        owl:NamedIndividual ;
+    rdfs:label "2003" ;
+    ex:mentionCount 1 .
+
+ent:2010 a ont:DateEntity,
+        owl:NamedIndividual ;
+    rdfs:label "2010" ;
+    ex:mentionCount 4 .
+
+ent:2011 a ont:DateEntity,
+        owl:NamedIndividual ;
+    rdfs:label "2011" ;
+    ex:mentionCount 1 .
+
+ent:2014 a ont:DateEntity,
+        owl:NamedIndividual ;
+    rdfs:label "2014" ;
+    ex:mentionCount 9 .
+
+ent:2015 a ont:DateEntity,
+        owl:NamedIndividual ;
+    rdfs:label "2015" ;
+    ex:mentionCount 4 .
+
+ent:2022 a ont:DateEntity,
+        owl:NamedIndividual ;
+    rdfs:label "2022" ;
+    ex:mentionCount 1 .
+
+ent:2024 a ont:DateEntity,
+        owl:NamedIndividual ;
+    rdfs:label "2024" ;
+    ex:mentionCount 1 .
+
+ent:203-2-million a ont:Thing,
+        owl:NamedIndividual ;
+    rdfs:label "$203.2 million" ;
+    ex:mentionCount 0 .
+
+ent:a-united-states a ont:Place,
+        owl:NamedIndividual ;
+    rdfs:label "a United States" ;
+    ex:mentionCount 1 ;
+    prop:cause ent:dust-bowl .
+
+ent:abc a ont:Organization,
+        owl:NamedIndividual ;
+    rdfs:label "ABC" ;
+    ex:mentionCount 2 .
+
+ent:about-three-years a ont:DateEntity,
+        owl:NamedIndividual ;
+    rdfs:label "about three years" ;
+    ex:mentionCount 1 .
+
+ent:academy-awards a ont:Work,
+        owl:NamedIndividual ;
+    rdfs:label "Academy Awards" ;
+    ex:mentionCount 5 .
+
+ent:al-pacino a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Al Pacino" ;
+    ex:mentionCount 2 .
+
+ent:an-academy-award a ont:Work,
+        owl:NamedIndividual ;
+    rdfs:label "an Academy Award" ;
+    ex:mentionCount 4 .
+
+ent:august-1942 a ont:DateEntity,
+        owl:NamedIndividual ;
+    rdfs:label "August 1942" ;
+    ex:mentionCount 1 .
+
+ent:breaking-bad a ont:Work,
+        owl:NamedIndividual ;
+    rdfs:label "Breaking Bad" ;
+    ex:mentionCount 6 .
+
+ent:cavendish a ont:Organization,
+        owl:NamedIndividual ;
+    rdfs:label "Cavendish" ;
+    ex:mentionCount 1 .
+
+ent:dust-bowl a ont:Event,
+        owl:NamedIndividual ;
+    rdfs:label "Dust Bowl" ;
+    ex:mentionCount 1 .
+
+ent:earth a ont:Thing,
+        owl:NamedIndividual ;
+    rdfs:label "Earth" ;
+    ex:mentionCount 0 .
+
+ent:endurance a ont:Thing,
+        owl:NamedIndividual ;
+    rdfs:label "Endurance" ;
+    ex:mentionCount 0 .
+
+ent:first a ont:Thing,
+        owl:NamedIndividual ;
+    rdfs:label "first" ;
+    ex:mentionCount 0 .
+
+ent:german a ont:Thing,
+        owl:NamedIndividual ;
+    rdfs:label "German" ;
+    ex:mentionCount 0 .
+
+ent:insomnia a ont:Work,
+        owl:NamedIndividual ;
+    rdfs:label "Insomnia" ;
+    ex:mentionCount 1 ;
+    prop:star ent:al-pacino .
+
+ent:interstellar a ont:Work,
+        owl:NamedIndividual ;
+    rdfs:label "Interstellar" ;
+    ex:mentionCount 14 ;
+    prop:beginIn ent:a-united-states ;
+    prop:gross ent:203-2-million ;
+    prop:grossIn ent:the-united-states .
+
+ent:latin a ont:Thing,
+        owl:NamedIndividual ;
+    rdfs:label "Latin" ;
+    ex:mentionCount 0 .
+
+ent:more-than-300-million a ont:Thing,
+        owl:NamedIndividual ;
+    rdfs:label "more than $300 million" ;
+    ex:mentionCount 0 .
+
+ent:murph a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Murph" ;
+    ex:mentionCount 7 .
+
+ent:nolan a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Nolan" ;
+    ex:mentionCount 23 ;
+    prop:choose ent:cillian-murphy ;
+    prop:followWith ent:insomnia ;
+    prop:helm ent:interstellar ;
+    prop:win ent:an-academy-award ;
+    prop:winFor ent:oppenheimer ;
+    prop:winIn ent:2024 .
+
+ent:november-2007 a ont:DateEntity,
+        owl:NamedIndividual ;
+    rdfs:label "November 2007" ;
+    ex:mentionCount 1 .
+
+ent:october-1949 a ont:DateEntity,
+        owl:NamedIndividual ;
+    rdfs:label "October 1949" ;
+    ex:mentionCount 1 .
+
+ent:october-of-the-same-year a ont:DateEntity,
+        owl:NamedIndividual ;
+    rdfs:label "October of the same year" ;
+    ex:mentionCount 1 .
+
+ent:strauss a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Strauss" ;
+    ex:mentionCount 3 .
+
+ent:the-dolby-theatre a ont:Thing,
+        owl:NamedIndividual ;
+    rdfs:label "the Dolby Theatre" ;
+    ex:mentionCount 0 .
+
+ent:the-end-of-november-2023 a ont:DateEntity,
+        owl:NamedIndividual ;
+    rdfs:label "the end of November 2023" ;
+    ex:mentionCount 1 .
+
+ent:the-enrico-fermi-award a ont:Work,
+        owl:NamedIndividual ;
+    rdfs:label "the Enrico Fermi Award" ;
+    ex:mentionCount 1 .
+
+ent:the-four-years a ont:DateEntity,
+        owl:NamedIndividual ;
+    rdfs:label "the four years" ;
+    ex:mentionCount 1 .
+
+ent:the-golden-globe a ont:Work,
+        owl:NamedIndividual ;
+    rdfs:label "the Golden Globe" ;
+    ex:mentionCount 1 .
+
+ent:the-hollywood-reporter a ont:Organization,
+        owl:NamedIndividual ;
+    rdfs:label "The Hollywood Reporter" ;
+    ex:mentionCount 1 .
+
+ent:the-institute-for-advanced-study a ont:Organization,
+        owl:NamedIndividual ;
+    rdfs:label "the Institute for Advanced Study" ;
+    ex:mentionCount 3 .
+
+ent:the-manhattan-project a ont:Organization,
+        owl:NamedIndividual ;
+    rdfs:label "the Manhattan Project" ;
+    ex:mentionCount 5 .
+
+ent:cillian-murphy a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Cillian Murphy" ;
+    ex:mentionCount 3 .
+
+ent:cooper a ont:Person,
+        owl:NamedIndividual ;
+    rdfs:label "Cooper" ;
+    ex:mentionCount 13 ;
+    prop:separateFrom ent:endurance .
+
+ent:oppenheimer a ont:Organization,
+        ont:Person,
+        ont:Work,
+        owl:NamedIndividual ;
+    rdfs:label "Oppenheimer" ;
+    ex:mentionCount 48 ;
+    prop:beRelation ent:german ;
+    prop:beginIn ent:1939 ;
+    prop:cast ent:cillian-murphy ;
+    prop:excelIn ent:latin ;
+    prop:gross ent:more-than-300-million ;
+    prop:grossBy ent:the-end-of-november-2023 ;
+    prop:haveAt ent:cavendish ;
+    prop:initiateIn ent:1942 ;
+    prop:resignIn ent:october-of-the-same-year ;
+    prop:retireFrom ent:the-institute-for-advanced-study ;
+    prop:retireIn ent:1966 ;
+    prop:win ent:academy-awards .
+
+ent:oscar a ont:Person,
+        ont:Work,
+        owl:NamedIndividual ;
+    rdfs:label "Oscar" ;
+    ex:mentionCount 12 .
+
+ent:the-united-states a ont:Place,
+        owl:NamedIndividual ;
+    rdfs:label "the United States" ;
+    ex:mentionCount 4 .
+

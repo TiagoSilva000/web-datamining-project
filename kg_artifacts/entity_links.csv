@@ -1,0 +1,370 @@
+private_entity,private_uri,entity_type,wikidata_id,wikidata_uri,wikidata_label,wikidata_description,confidence,matched,match_reason
+14 months,http://example.org/webdatamining/entity/14-months,DATE,,,,,0.0,False,skipped_date_or_empty
+1925,http://example.org/webdatamining/entity/1925,DATE,,,,,0.0,False,skipped_date_or_empty
+1927,http://example.org/webdatamining/entity/1927,DATE,,,,,0.0,False,skipped_date_or_empty
+1929,http://example.org/webdatamining/entity/1929,DATE,,,,,0.0,False,skipped_date_or_empty
+1933,http://example.org/webdatamining/entity/1933,DATE,,,,,0.0,False,skipped_date_or_empty
+1934,http://example.org/webdatamining/entity/1934,DATE,,,,,0.0,False,skipped_date_or_empty
+1936,http://example.org/webdatamining/entity/1936,DATE,,,,,0.0,False,skipped_date_or_empty
+1939,http://example.org/webdatamining/entity/1939,DATE,,,,,0.0,False,skipped_date_or_empty
+1940,http://example.org/webdatamining/entity/1940,DATE,,,,,0.0,False,skipped_date_or_empty
+1942,http://example.org/webdatamining/entity/1942,DATE,,,,,0.0,False,skipped_date_or_empty
+1943,http://example.org/webdatamining/entity/1943,DATE,,,,,0.0,False,skipped_date_or_empty
+1944–46,http://example.org/webdatamining/entity/1944-46,DATE,,,,,0.0,False,skipped_date_or_empty
+1945,http://example.org/webdatamining/entity/1945,DATE,,,,,0.0,False,skipped_date_or_empty
+1947,http://example.org/webdatamining/entity/1947,DATE,,,,,0.0,False,skipped_date_or_empty
+1948,http://example.org/webdatamining/entity/1948,DATE,,,,,0.0,False,skipped_date_or_empty
+1949,http://example.org/webdatamining/entity/1949,DATE,,,,,0.0,False,skipped_date_or_empty
+1950,http://example.org/webdatamining/entity/1950,DATE,,,,,0.0,False,skipped_date_or_empty
+1950s,http://example.org/webdatamining/entity/1950s,DATE,,,,,0.0,False,skipped_date_or_empty
+1952,http://example.org/webdatamining/entity/1952,DATE,,,,,0.0,False,skipped_date_or_empty
+1953,http://example.org/webdatamining/entity/1953,DATE,,,,,0.0,False,skipped_date_or_empty
+1954,http://example.org/webdatamining/entity/1954,DATE,,,,,0.0,False,skipped_date_or_empty
+1963,http://example.org/webdatamining/entity/1963,DATE,,,,,0.0,False,skipped_date_or_empty
+1966,http://example.org/webdatamining/entity/1966,DATE,,,,,0.0,False,skipped_date_or_empty
+1968,http://example.org/webdatamining/entity/1968,DATE,,,,,0.0,False,skipped_date_or_empty
+1969,http://example.org/webdatamining/entity/1969,DATE,,,,,0.0,False,skipped_date_or_empty
+1976,http://example.org/webdatamining/entity/1976,DATE,,,,,0.0,False,skipped_date_or_empty
+1983,http://example.org/webdatamining/entity/1983,DATE,,,,,0.0,False,skipped_date_or_empty
+1997,http://example.org/webdatamining/entity/1997,DATE,,,,,0.0,False,skipped_date_or_empty
+1998,http://example.org/webdatamining/entity/1998,DATE,,,,,0.0,False,skipped_date_or_empty
+2000,http://example.org/webdatamining/entity/2000,DATE,,,,,0.0,False,skipped_date_or_empty
+2002,http://example.org/webdatamining/entity/2002,DATE,,,,,0.0,False,skipped_date_or_empty
+2003,http://example.org/webdatamining/entity/2003,DATE,,,,,0.0,False,skipped_date_or_empty
+2005,http://example.org/webdatamining/entity/2005,DATE,,,,,0.0,False,skipped_date_or_empty
+2006,http://example.org/webdatamining/entity/2006,DATE,,,,,0.0,False,skipped_date_or_empty
+2008,http://example.org/webdatamining/entity/2008,DATE,,,,,0.0,False,skipped_date_or_empty
+2010,http://example.org/webdatamining/entity/2010,DATE,,,,,0.0,False,skipped_date_or_empty
+2011,http://example.org/webdatamining/entity/2011,DATE,,,,,0.0,False,skipped_date_or_empty
+2012,http://example.org/webdatamining/entity/2012,DATE,,,,,0.0,False,skipped_date_or_empty
+2013,http://example.org/webdatamining/entity/2013,DATE,,,,,0.0,False,skipped_date_or_empty
+2014,http://example.org/webdatamining/entity/2014,DATE,,,,,0.0,False,skipped_date_or_empty
+2015,http://example.org/webdatamining/entity/2015,DATE,,,,,0.0,False,skipped_date_or_empty
+2016,http://example.org/webdatamining/entity/2016,DATE,,,,,0.0,False,skipped_date_or_empty
+2017,http://example.org/webdatamining/entity/2017,DATE,,,,,0.0,False,skipped_date_or_empty
+2019,http://example.org/webdatamining/entity/2019,DATE,,,,,0.0,False,skipped_date_or_empty
+2020,http://example.org/webdatamining/entity/2020,DATE,,,,,0.0,False,skipped_date_or_empty
+2022,http://example.org/webdatamining/entity/2022,DATE,,,,,0.0,False,skipped_date_or_empty
+2023,http://example.org/webdatamining/entity/2023,DATE,,,,,0.0,False,skipped_date_or_empty
+2024,http://example.org/webdatamining/entity/2024,DATE,,,,,0.0,False,skipped_date_or_empty
+2025,http://example.org/webdatamining/entity/2025,DATE,,,,,0.0,False,skipped_date_or_empty
+2026,http://example.org/webdatamining/entity/2026,DATE,,,,,0.0,False,skipped_date_or_empty
+2027,http://example.org/webdatamining/entity/2027,DATE,,,,,0.0,False,skipped_date_or_empty
+2029,http://example.org/webdatamining/entity/2029,DATE,,,,,0.0,False,skipped_date_or_empty
+60 years,http://example.org/webdatamining/entity/60-years,DATE,,,,,0.0,False,skipped_date_or_empty
+"April 22, 1904",http://example.org/webdatamining/entity/april-22-1904,DATE,,,,,0.0,False,skipped_date_or_empty
+"April 3, 1930",http://example.org/webdatamining/entity/april-3-1930,DATE,,,,,0.0,False,skipped_date_or_empty
+August 1942,http://example.org/webdatamining/entity/august-1942,DATE,,,,,0.0,False,skipped_date_or_empty
+August 2018,http://example.org/webdatamining/entity/august-2018,DATE,,,,,0.0,False,skipped_date_or_empty
+"December 21, 1953",http://example.org/webdatamining/entity/december-21-1953,DATE,,,,,0.0,False,skipped_date_or_empty
+"February 18, 1967",http://example.org/webdatamining/entity/february-18-1967,DATE,,,,,0.0,False,skipped_date_or_empty
+"January 20, 2008",http://example.org/webdatamining/entity/january-20-2008,DATE,,,,,0.0,False,skipped_date_or_empty
+"July 16, 1945",http://example.org/webdatamining/entity/july-16-1945,DATE,,,,,0.0,False,skipped_date_or_empty
+"July 30, 1970",http://example.org/webdatamining/entity/july-30-1970,DATE,,,,,0.0,False,skipped_date_or_empty
+"July 31, 1928",http://example.org/webdatamining/entity/july-31-1928,DATE,,,,,0.0,False,skipped_date_or_empty
+"May 16, 1929",http://example.org/webdatamining/entity/may-16-1929,DATE,,,,,0.0,False,skipped_date_or_empty
+May 1928,http://example.org/webdatamining/entity/may-1928,DATE,,,,,0.0,False,skipped_date_or_empty
+November 2007,http://example.org/webdatamining/entity/november-2007,DATE,,,,,0.0,False,skipped_date_or_empty
+October 1949,http://example.org/webdatamining/entity/october-1949,DATE,,,,,0.0,False,skipped_date_or_empty
+October of the same year,http://example.org/webdatamining/entity/october-of-the-same-year,DATE,,,,,0.0,False,skipped_date_or_empty
+"September 29, 2013",http://example.org/webdatamining/entity/september-29-2013,DATE,,,,,0.0,False,skipped_date_or_empty
+The following year,http://example.org/webdatamining/entity/the-following-year,DATE,,,,,0.0,False,skipped_date_or_empty
+a decade prior,http://example.org/webdatamining/entity/a-decade-prior,DATE,,,,,0.0,False,skipped_date_or_empty
+about three years,http://example.org/webdatamining/entity/about-three-years,DATE,,,,,0.0,False,skipped_date_or_empty
+annual,http://example.org/webdatamining/entity/annual,DATE,,,,,0.0,False,skipped_date_or_empty
+annually,http://example.org/webdatamining/entity/annually,DATE,,,,,0.0,False,skipped_date_or_empty
+at least one week,http://example.org/webdatamining/entity/at-least-one-week,DATE,,,,,0.0,False,skipped_date_or_empty
+"between August 1, 1927",http://example.org/webdatamining/entity/between-august-1-1927,DATE,,,,,0.0,False,skipped_date_or_empty
+between January 1 and midnight of December 31 of that year,http://example.org/webdatamining/entity/between-january-1-and-midnight-of-december-31-of-that-year,DATE,,,,,0.0,False,skipped_date_or_empty
+early 20th-century,http://example.org/webdatamining/entity/early-20th-century,DATE,,,,,0.0,False,skipped_date_or_empty
+its debut season,http://example.org/webdatamining/entity/its-debut-season,DATE,,,,,0.0,False,skipped_date_or_empty
+many years,http://example.org/webdatamining/entity/many-years,DATE,,,,,0.0,False,skipped_date_or_empty
+only a few years before,http://example.org/webdatamining/entity/only-a-few-years-before,DATE,,,,,0.0,False,skipped_date_or_empty
+the 1920s,http://example.org/webdatamining/entity/the-1920s,DATE,,,,,0.0,False,skipped_date_or_empty
+the 1950s,http://example.org/webdatamining/entity/the-1950s,DATE,,,,,0.0,False,skipped_date_or_empty
+the 20th century,http://example.org/webdatamining/entity/the-20th-century,DATE,,,,,0.0,False,skipped_date_or_empty
+the 21st century,http://example.org/webdatamining/entity/the-21st-century,DATE,,,,,0.0,False,skipped_date_or_empty
+the calendar year,http://example.org/webdatamining/entity/the-calendar-year,DATE,,,,,0.0,False,skipped_date_or_empty
+the early days,http://example.org/webdatamining/entity/the-early-days,DATE,,,,,0.0,False,skipped_date_or_empty
+the end of November 2023,http://example.org/webdatamining/entity/the-end-of-november-2023,DATE,,,,,0.0,False,skipped_date_or_empty
+the first four months,http://example.org/webdatamining/entity/the-first-four-months,DATE,,,,,0.0,False,skipped_date_or_empty
+the following year,http://example.org/webdatamining/entity/the-following-year,DATE,,,,,0.0,False,skipped_date_or_empty
+the four years,http://example.org/webdatamining/entity/the-four-years,DATE,,,,,0.0,False,skipped_date_or_empty
+the last years,http://example.org/webdatamining/entity/the-last-years,DATE,,,,,0.0,False,skipped_date_or_empty
+the late 2010s,http://example.org/webdatamining/entity/the-late-2010s,DATE,,,,,0.0,False,skipped_date_or_empty
+the late 20th century,http://example.org/webdatamining/entity/the-late-20th-century,DATE,,,,,0.0,False,skipped_date_or_empty
+the next decades,http://example.org/webdatamining/entity/the-next-decades,DATE,,,,,0.0,False,skipped_date_or_empty
+the second half of 1928,http://example.org/webdatamining/entity/the-second-half-of-1928,DATE,,,,,0.0,False,skipped_date_or_empty
+the years,http://example.org/webdatamining/entity/the-years,DATE,,,,,0.0,False,skipped_date_or_empty
+years,http://example.org/webdatamining/entity/years,DATE,,,,,0.0,False,skipped_date_or_empty
+Dust Bowl,http://example.org/webdatamining/entity/dust-bowl,EVENT,,,,,0.7,False,"exact_label,api_match_text"
+Oscars,http://example.org/webdatamining/entity/oscars,EVENT,,,,,0.45,False,partial_label
+World War II,http://example.org/webdatamining/entity/world-war-ii,EVENT,,,,,0.7,False,"exact_label,api_match_text"
+the 1930s,http://example.org/webdatamining/entity/the-1930s,EVENT,,,,,0.45,False,partial_label
+the Civil War,http://example.org/webdatamining/entity/the-civil-war,EVENT,,,,,0.7,False,"exact_label,api_match_text"
+Alamogordo,http://example.org/webdatamining/entity/alamogordo,GPE,Q467617,http://www.wikidata.org/entity/Q467617,Alamogordo,"city in Otero County, New Mexico, United States",0.9,True,"exact_label,api_match_text,type_hint:city"
+Albuquerque,http://example.org/webdatamining/entity/albuquerque,GPE,Q34804,http://www.wikidata.org/entity/Q34804,Albuquerque,"city and county seat of Bernalillo County, New Mexico, United States and the largest city in the state",0.85,True,"exact_label,api_match_text,type_hint:city"
+Beverly Hills,http://example.org/webdatamining/entity/beverly-hills,GPE,Q127856,http://www.wikidata.org/entity/Q127856,Beverly Hills,"city in Los Angeles County, California, United States",0.9,True,"exact_label,api_match_text,type_hint:city"
+California,http://example.org/webdatamining/entity/california,GPE,Q99,http://www.wikidata.org/entity/Q99,California,state of the United States of America,0.85,True,"exact_label,api_match_text,type_hint:state"
+Chicago,http://example.org/webdatamining/entity/chicago,GPE,Q1297,http://www.wikidata.org/entity/Q1297,Chicago,"city and county seat of Cook County, and largest city in State of Illinois, United States of America",0.85,True,"exact_label,api_match_text,type_hint:city"
+England,http://example.org/webdatamining/entity/england,GPE,Q21,http://www.wikidata.org/entity/Q21,England,"country in north-west Europe, part of the United Kingdom",0.9,True,"exact_label,api_match_text,type_hint:country"
+France,http://example.org/webdatamining/entity/france,GPE,Q142,http://www.wikidata.org/entity/Q142,France,"country in Western Europe and other continents (through its overseas territories in America, Africa and Oceania)",0.85,True,"exact_label,api_match_text,type_hint:country"
+Germany,http://example.org/webdatamining/entity/germany,GPE,Q183,http://www.wikidata.org/entity/Q183,Germany,country in Central Europe,0.9,True,"exact_label,api_match_text,type_hint:country"
+Gotham City,http://example.org/webdatamining/entity/gotham-city,GPE,Q732858,http://www.wikidata.org/entity/Q732858,Gotham City,"fictional city in the DC Universe, best known as the home of Batman",0.85,True,"exact_label,api_match_text,type_hint:city"
+Hiroshima,http://example.org/webdatamining/entity/hiroshima,GPE,Q34664,http://www.wikidata.org/entity/Q34664,Hiroshima,"capital city of Hiroshima Prefecture, Japan",0.9,True,"exact_label,api_match_text,type_hint:city"
+Hollywood,http://example.org/webdatamining/entity/hollywood,GPE,Q34006,http://www.wikidata.org/entity/Q34006,Hollywood,"neighborhood in Los Angeles, California, United States",0.85,True,"exact_label,api_match_text,type_hint:state"
+London,http://example.org/webdatamining/entity/london,GPE,Q84,http://www.wikidata.org/entity/Q84,London,capital and largest city of England and the United Kingdom,0.85,True,"exact_label,api_match_text,type_hint:city"
+Los Alamos,http://example.org/webdatamining/entity/los-alamos,GPE,Q318637,http://www.wikidata.org/entity/Q318637,Los Alamos,"census-designated place in and county seat of Los Alamos County, New Mexico, United States",0.85,True,"exact_label,api_match_text,type_hint:state"
+Los Angeles county,http://example.org/webdatamining/entity/los-angeles-county,GPE,Q104994,http://www.wikidata.org/entity/Q104994,Los Angeles County,"county in California, United States",0.9,True,"exact_label,api_match_text,type_hint:state"
+Nagasaki,http://example.org/webdatamining/entity/nagasaki,GPE,Q38234,http://www.wikidata.org/entity/Q38234,Nagasaki,"core city in Kyushu, Japan",0.9,True,"exact_label,api_match_text,type_hint:city"
+New Jersey,http://example.org/webdatamining/entity/new-jersey,GPE,Q1408,http://www.wikidata.org/entity/Q1408,New Jersey,state of the United States of America,0.85,True,"exact_label,api_match_text,type_hint:state"
+New Mexico,http://example.org/webdatamining/entity/new-mexico,GPE,Q1522,http://www.wikidata.org/entity/Q1522,New Mexico,state of the United States of America,0.9,True,"exact_label,api_match_text,type_hint:state"
+New York,http://example.org/webdatamining/entity/new-york,GPE,Q1384,http://www.wikidata.org/entity/Q1384,New York,state of the United States of America,0.9,True,"exact_label,api_match_text,type_hint:state"
+New York City,http://example.org/webdatamining/entity/new-york-city,GPE,Q60,http://www.wikidata.org/entity/Q60,New York City,most populous city in the United States,0.85,True,"exact_label,api_match_text,type_hint:city"
+Poland,http://example.org/webdatamining/entity/poland,GPE,Q36,http://www.wikidata.org/entity/Q36,Poland,country in Central Europe,0.9,True,"exact_label,api_match_text,type_hint:country"
+Princeton,http://example.org/webdatamining/entity/princeton,GPE,Q138518,http://www.wikidata.org/entity/Q138518,Princeton,"municipality in Mercer County, New Jersey, United States",0.9,True,"exact_label,api_match_text,type_hint:state"
+Santa Fe,http://example.org/webdatamining/entity/santa-fe,GPE,Q44244,http://www.wikidata.org/entity/Q44244,Santa Fe,"city in and capital of Santa Fe Province, Argentina",0.9,True,"exact_label,api_match_text,type_hint:city"
+Spain,http://example.org/webdatamining/entity/spain,GPE,Q29,http://www.wikidata.org/entity/Q29,Spain,country in southwestern Europe with territories in Africa,0.85,True,"exact_label,api_match_text,type_hint:country"
+U.S,http://example.org/webdatamining/entity/u-s,GPE,,,,,0.45,False,partial_label
+a United States,http://example.org/webdatamining/entity/a-united-states,GPE,,,,,0.45,False,partial_label
+the Soviet Union,http://example.org/webdatamining/entity/the-soviet-union,GPE,,,,,0.7,False,"partial_label,api_match_text,type_hint:country"
+the United States,http://example.org/webdatamining/entity/the-united-states,GPE,,,,,0.6,False,"partial_label,type_hint:country"
+ABC,http://example.org/webdatamining/entity/abc,ORG,Q45777,http://www.wikidata.org/entity/Q45777,ABC,1970 studio album by the Jackson 5,0.9,True,"exact_label,api_match_text,type_hint:studio"
+AMC,http://example.org/webdatamining/entity/amc,ORG,Q294660,http://www.wikidata.org/entity/Q294660,AMC,American TV channel,0.75,True,"exact_label,api_match_text"
+Academy,http://example.org/webdatamining/entity/academy,ORG,Q162633,http://www.wikidata.org/entity/Q162633,academy,institution of higher learning,0.75,True,"exact_label,api_match_text"
+Apollo,http://example.org/webdatamining/entity/apollo,ORG,,,,,0.7,False,"exact_label,api_match_text"
+Batman,http://example.org/webdatamining/entity/batman,ORG,,,,,0.7,False,"exact_label,api_match_text"
+Britannica,http://example.org/webdatamining/entity/britannica,ORG,,,,,0.55,False,"partial_label,api_match_text"
+Britannica Premium,http://example.org/webdatamining/entity/britannica-premium,ORG,,,,,0.0,False,below_threshold
+CPUSA,http://example.org/webdatamining/entity/cpusa,ORG,,,,,0.25,False,"api_match_text,type_hint:company"
+Cavendish,http://example.org/webdatamining/entity/cavendish,ORG,,,,,0.7,False,"exact_label,api_match_text"
+Energy,http://example.org/webdatamining/entity/energy,ORG,Q12482493,http://www.wikidata.org/entity/Q12482493,Energy,2006 studio album by The Upstairs,0.85,True,"exact_label,api_match_text,type_hint:studio"
+FBI,http://example.org/webdatamining/entity/fbi,ORG,Q846087,http://www.wikidata.org/entity/Q846087,FBI,fictional organization,0.9,True,"exact_label,api_match_text,type_hint:organization"
+Haileybury,http://example.org/webdatamining/entity/haileybury,ORG,Q9284985,http://www.wikidata.org/entity/Q9284985,Haileybury,"former town in Canada, part of Temiskaming Shores, Ontario",0.75,True,"exact_label,api_match_text"
+Harvard University,http://example.org/webdatamining/entity/harvard-university,ORG,Q13371,http://www.wikidata.org/entity/Q13371,Harvard University,"private university in Cambridge, Massachusetts",0.75,True,"exact_label,api_match_text"
+Hulu,http://example.org/webdatamining/entity/hulu,ORG,,,,,0.7,False,"exact_label,api_match_text"
+Kodak,http://example.org/webdatamining/entity/kodak,ORG,Q486269,http://www.wikidata.org/entity/Q486269,Kodak,American company,0.85,True,"exact_label,api_match_text,type_hint:company"
+MGM,http://example.org/webdatamining/entity/mgm,ORG,Q134894733,http://www.wikidata.org/entity/Q134894733,MGM,Czech company,0.9,True,"exact_label,api_match_text,type_hint:company"
+Metro-Goldwyn-Mayer,http://example.org/webdatamining/entity/metro-goldwyn-mayer,ORG,Q179200,http://www.wikidata.org/entity/Q179200,Metro-Goldwyn-Mayer,American film and television and distribution company,0.9,True,"exact_label,api_match_text,type_hint:company"
+NASA,http://example.org/webdatamining/entity/nasa,ORG,Q309751,http://www.wikidata.org/entity/Q309751,Nasa,genus of plants,0.75,True,"exact_label,api_match_text"
+NBC,http://example.org/webdatamining/entity/nbc,ORG,Q13974,http://www.wikidata.org/entity/Q13974,NBC,American television and radio network,0.9,True,"exact_label,api_match_text,type_hint:network"
+National Football Conference,http://example.org/webdatamining/entity/national-football-conference,ORG,Q319007,http://www.wikidata.org/entity/Q319007,National Football Conference,one of two conferences in the National Football League,0.75,True,"exact_label,api_match_text"
+Netflix,http://example.org/webdatamining/entity/netflix,ORG,Q907311,http://www.wikidata.org/entity/Q907311,Netflix,American subscription video on-demand over-the-top streaming service,0.75,True,"exact_label,api_match_text"
+Oppenheimer,http://example.org/webdatamining/entity/oppenheimer,ORG,,,,,0.7,False,"exact_label,api_match_text"
+Senate,http://example.org/webdatamining/entity/senate,ORG,Q2570643,http://www.wikidata.org/entity/Q2570643,senate,"type of legislative body, often the upper house or chamber of a bicameral legislature",0.75,True,"exact_label,api_match_text"
+Sony Pictures Television,http://example.org/webdatamining/entity/sony-pictures-television,ORG,Q652390,http://www.wikidata.org/entity/Q652390,Sony Pictures Television,American television production and distribution studio,0.9,True,"exact_label,api_match_text,type_hint:studio"
+The Federation of American Scientists,http://example.org/webdatamining/entity/the-federation-of-american-scientists,ORG,,,,,0.0,False,below_threshold
+The Hollywood Reporter,http://example.org/webdatamining/entity/the-hollywood-reporter,ORG,,,,,0.7,False,"exact_label,api_match_text"
+The New York Times,http://example.org/webdatamining/entity/the-new-york-times,ORG,Q9684,http://www.wikidata.org/entity/Q9684,The New York Times,American daily newspaper (founded 1851),0.75,True,"exact_label,api_match_text"
+The New York Times’s,http://example.org/webdatamining/entity/the-new-york-times-s,ORG,,,,,0.25,False,token_overlap
+The Writers Guild of America,http://example.org/webdatamining/entity/the-writers-guild-of-america,ORG,,,,,0.0,False,below_threshold
+U.S. Army,http://example.org/webdatamining/entity/u-s-army,ORG,,,,,0.45,False,partial_label
+University College London,http://example.org/webdatamining/entity/university-college-london,ORG,Q193196,http://www.wikidata.org/entity/Q193196,University College London,"public research university in London, England, United Kingdom",0.75,True,"exact_label,api_match_text"
+Warner Brothers,http://example.org/webdatamining/entity/warner-brothers,ORG,,,,,0.425,False,"token_overlap,api_match_text,type_hint:company"
+YouTube,http://example.org/webdatamining/entity/youtube,ORG,,,,,0.7,False,"exact_label,api_match_text"
+the Academy of Motion Picture Arts and Sciences,http://example.org/webdatamining/entity/the-academy-of-motion-picture-arts-and-sciences,ORG,,,,,0.7,False,"partial_label,api_match_text,type_hint:organization"
+the Atomic Energy Commission,http://example.org/webdatamining/entity/the-atomic-energy-commission,ORG,,,,,0.45,False,partial_label
+the Cavendish Laboratory,http://example.org/webdatamining/entity/the-cavendish-laboratory,ORG,,,,,0.7,False,"exact_label,api_match_text"
+the Communist Party,http://example.org/webdatamining/entity/the-communist-party,ORG,,,,,0.45,False,partial_label
+the Communist Party of the United States of America,http://example.org/webdatamining/entity/the-communist-party-of-the-united-states-of-america,ORG,,,,,0.0,False,below_threshold
+the Department of Energy,http://example.org/webdatamining/entity/the-department-of-energy,ORG,Q84287366,http://www.wikidata.org/entity/Q84287366,The Department of Energy,scientific article published on 01 September 1994,0.75,True,"exact_label,api_match_text"
+the Drug Enforcement Administration,http://example.org/webdatamining/entity/the-drug-enforcement-administration,ORG,,,,,0.55,False,"partial_label,api_match_text"
+the Federal Bureau of Investigation,http://example.org/webdatamining/entity/the-federal-bureau-of-investigation,ORG,,,,,0.45,False,partial_label
+the General Advisory Committee,http://example.org/webdatamining/entity/the-general-advisory-committee,ORG,,,,,0.0,False,below_threshold
+the Institute for Advanced Study,http://example.org/webdatamining/entity/the-institute-for-advanced-study,ORG,,,,,0.7,False,"exact_label,api_match_text"
+the Los Alamos Laboratory,http://example.org/webdatamining/entity/the-los-alamos-laboratory,ORG,,,,,0.0,False,below_threshold
+the Los Angeles Times,http://example.org/webdatamining/entity/the-los-angeles-times,ORG,,,,,0.55,False,"partial_label,api_match_text"
+the Manhattan Project,http://example.org/webdatamining/entity/the-manhattan-project,ORG,,,,,0.7,False,"exact_label,api_match_text"
+the Manhattan Project’s,http://example.org/webdatamining/entity/the-manhattan-project-s,ORG,,,,,0.0,False,below_threshold
+the U.S. Army,http://example.org/webdatamining/entity/the-u-s-army,ORG,,,,,0.45,False,partial_label
+the U.S. Atomic Energy Commission,http://example.org/webdatamining/entity/the-u-s-atomic-energy-commission,ORG,,,,,0.0,False,below_threshold
+the U.S. Department of Energy,http://example.org/webdatamining/entity/the-u-s-department-of-energy,ORG,,,,,0.45,False,partial_label
+the University of California,http://example.org/webdatamining/entity/the-university-of-california,ORG,,,,,0.45,False,partial_label
+"the University of California, Los Angeles",http://example.org/webdatamining/entity/the-university-of-california-los-angeles,ORG,,,,,0.7,False,"exact_label,api_match_text"
+the University of Cambridge,http://example.org/webdatamining/entity/the-university-of-cambridge,ORG,Q28765395,http://www.wikidata.org/entity/Q28765395,The University of Cambridge,scientific article (publication date: 19 June 1897),0.75,True,"exact_label,api_match_text"
+A.O. Scott,http://example.org/webdatamining/entity/a-o-scott,PERSON,,,,,0.55,False,"token_overlap,api_match_text,type_hint:film"
+Adolf Hitler,http://example.org/webdatamining/entity/adolf-hitler,PERSON,,,,,0.7,False,"exact_label,api_match_text"
+Al Pacino,http://example.org/webdatamining/entity/al-pacino,PERSON,Q41163,http://www.wikidata.org/entity/Q41163,Al Pacino,American actor (born 1940),0.9,True,"exact_label,api_match_text,type_hint:actor"
+Albert Einstein,http://example.org/webdatamining/entity/albert-einstein,PERSON,Q937,http://www.wikidata.org/entity/Q937,Albert Einstein,German-born theoretical physicist (1879–1955),0.75,True,"exact_label,api_match_text"
+Amelia Brand,http://example.org/webdatamining/entity/amelia-brand,PERSON,Q113127006,http://www.wikidata.org/entity/Q113127006,Amelia Brand,fictional character from Interstellar,0.75,True,"exact_label,api_match_text"
+Anne Hathaway,http://example.org/webdatamining/entity/anne-hathaway,PERSON,,,,,0.7,False,"exact_label,api_match_text"
+April Reign,http://example.org/webdatamining/entity/april-reign,PERSON,Q104424812,http://www.wikidata.org/entity/Q104424812,April Reign,American media strategist and diversity & inclusion advocate,0.75,True,"exact_label,api_match_text"
+Banks,http://example.org/webdatamining/entity/banks,PERSON,,,,,0.7,False,"exact_label,api_match_text"
+Batman,http://example.org/webdatamining/entity/batman,PERSON,,,,,0.7,False,"exact_label,api_match_text"
+Bette Davis,http://example.org/webdatamining/entity/bette-davis,PERSON,Q71206,http://www.wikidata.org/entity/Q71206,Bette Davis,American actress (1908–1989),0.75,True,"exact_label,api_match_text"
+Billy Crystal,http://example.org/webdatamining/entity/billy-crystal,PERSON,Q186485,http://www.wikidata.org/entity/Q186485,Billy Crystal,"American actor, comedian, writer, producer, director and television presenter (born 1948)",0.9,True,"exact_label,api_match_text,type_hint:actor"
+Bob Hope,http://example.org/webdatamining/entity/bob-hope,PERSON,Q94081,http://www.wikidata.org/entity/Q94081,Bob Hope,American entertainer (1903–2003),0.75,True,"exact_label,api_match_text"
+Bob Odenkirk,http://example.org/webdatamining/entity/bob-odenkirk,PERSON,Q888178,http://www.wikidata.org/entity/Q888178,Bob Odenkirk,"American actor, comedian and filmmaker",0.9,True,"exact_label,api_match_text,type_hint:actor"
+Brand,http://example.org/webdatamining/entity/brand,PERSON,,,,,0.7,False,"exact_label,api_match_text"
+Brian De Palma’s,http://example.org/webdatamining/entity/brian-de-palma-s,PERSON,,,,,0.4,False,partial_label
+Bryan Cranston,http://example.org/webdatamining/entity/bryan-cranston,PERSON,Q23547,http://www.wikidata.org/entity/Q23547,Bryan Cranston,"American actor, director, and producer",0.9,True,"exact_label,api_match_text,type_hint:actor"
+Cassandra Kulukundis,http://example.org/webdatamining/entity/cassandra-kulukundis,PERSON,Q137855674,http://www.wikidata.org/entity/Q137855674,Cassandra Kulukundis,American casting director,0.9,True,"exact_label,api_match_text,type_hint:director"
+Cedric Gibbons,http://example.org/webdatamining/entity/cedric-gibbons,PERSON,Q727904,http://www.wikidata.org/entity/Q727904,Cedric Gibbons,American art director (1890–1960),0.9,True,"exact_label,api_match_text,type_hint:director"
+Chips,http://example.org/webdatamining/entity/chips,PERSON,Q1023688,http://www.wikidata.org/entity/Q1023688,CHiPs,American television crime drama series (1977–1983),0.85,True,"exact_label,api_match_text,type_hint:television"
+Christian Bale,http://example.org/webdatamining/entity/christian-bale,PERSON,Q45772,http://www.wikidata.org/entity/Q45772,Christian Bale,American-English actor (born 1974),0.9,True,"exact_label,api_match_text,type_hint:actor"
+Christopher,http://example.org/webdatamining/entity/christopher,PERSON,Q1084472,http://www.wikidata.org/entity/Q1084472,Christopher,male given name,0.75,True,"exact_label,api_match_text"
+Christopher Nolan,http://example.org/webdatamining/entity/christopher-nolan,PERSON,Q25191,http://www.wikidata.org/entity/Q25191,Christopher Nolan,British-American filmmaker (born 1970),0.9,True,"exact_label,api_match_text,type_hint:film"
+Christopher Nolan's,http://example.org/webdatamining/entity/christopher-nolan-s,PERSON,,,,,0.45,False,partial_label
+Christopher Nolan’s,http://example.org/webdatamining/entity/christopher-nolan-s,PERSON,,,,,0.3,False,token_overlap
+Cillian Murphy,http://example.org/webdatamining/entity/cillian-murphy,PERSON,Q202589,http://www.wikidata.org/entity/Q202589,Cillian Murphy,Irish actor (born 1976),0.9,True,"exact_label,api_match_text,type_hint:actor"
+Cooper,http://example.org/webdatamining/entity/cooper,PERSON,,,,,0.7,False,"exact_label,api_match_text"
+Cranston,http://example.org/webdatamining/entity/cranston,PERSON,,,,,0.7,False,"exact_label,api_match_text"
+David Gyasi,http://example.org/webdatamining/entity/david-gyasi,PERSON,Q1174630,http://www.wikidata.org/entity/Q1174630,David Gyasi,British actor,0.9,True,"exact_label,api_match_text,type_hint:actor"
+Dean Norris)—an,http://example.org/webdatamining/entity/dean-norris-an,PERSON,,,,,0.0,False,below_threshold
+Delroy Lindo,http://example.org/webdatamining/entity/delroy-lindo,PERSON,Q362559,http://www.wikidata.org/entity/Q362559,Delroy Lindo,British-born American actor (born 1952),0.9,True,"exact_label,api_match_text,type_hint:actor"
+Donald,http://example.org/webdatamining/entity/donald,PERSON,,,,,0.7,False,"exact_label,api_match_text"
+Downey,http://example.org/webdatamining/entity/downey,PERSON,,,,,0.7,False,"exact_label,api_match_text"
+Doyle,http://example.org/webdatamining/entity/doyle,PERSON,,,,,0.7,False,"exact_label,api_match_text"
+Ella Friedman,http://example.org/webdatamining/entity/ella-friedman,PERSON,Q66712630,http://www.wikidata.org/entity/Q66712630,Ella Friedman,American art collector,0.75,True,"exact_label,api_match_text"
+Ellen Burstyn,http://example.org/webdatamining/entity/ellen-burstyn,PERSON,Q211144,http://www.wikidata.org/entity/Q211144,Ellen Burstyn,American actress,0.75,True,"exact_label,api_match_text"
+Emily Blunt,http://example.org/webdatamining/entity/emily-blunt,PERSON,Q193517,http://www.wikidata.org/entity/Q193517,Emily Blunt,British actress (born 1983),0.75,True,"exact_label,api_match_text"
+Emma Thomas,http://example.org/webdatamining/entity/emma-thomas,PERSON,Q242951,http://www.wikidata.org/entity/Q242951,Emma Thomas,British film producer (born 1971),0.85,True,"exact_label,api_match_text,type_hint:producer"
+Ernest Rutherford,http://example.org/webdatamining/entity/ernest-rutherford,PERSON,Q9123,http://www.wikidata.org/entity/Q9123,Ernest Rutherford,New Zealand physicist (1871–1937),0.75,True,"exact_label,api_match_text"
+Esposito,http://example.org/webdatamining/entity/esposito,PERSON,,,,,0.7,False,"exact_label,api_match_text"
+Eugene Wigner,http://example.org/webdatamining/entity/eugene-wigner,PERSON,Q155790,http://www.wikidata.org/entity/Q155790,Eugene Wigner,Hungarian-American physicist and mathematician (1902–1995),0.75,True,"exact_label,api_match_text"
+Florence Pugh,http://example.org/webdatamining/entity/florence-pugh,PERSON,,,,,0.7,False,"exact_label,api_match_text"
+Gary Oldman,http://example.org/webdatamining/entity/gary-oldman,PERSON,Q83492,http://www.wikidata.org/entity/Q83492,Gary Oldman,British actor and filmmaker (born 1958),0.9,True,"exact_label,api_match_text,type_hint:actor"
+George Lucas’s,http://example.org/webdatamining/entity/george-lucas-s,PERSON,,,,,0.0,False,below_threshold
+Giancarlo Esposito,http://example.org/webdatamining/entity/giancarlo-esposito,PERSON,Q726142,http://www.wikidata.org/entity/Q726142,Giancarlo Esposito,American actor,0.9,True,"exact_label,api_match_text,type_hint:actor"
+Gibbons,http://example.org/webdatamining/entity/gibbons,PERSON,,,,,0.7,False,"exact_label,api_match_text"
+Gilligan,http://example.org/webdatamining/entity/gilligan,PERSON,Q16870188,http://www.wikidata.org/entity/Q16870188,Gilligan,family name,0.75,True,"exact_label,api_match_text"
+Greta Gerwig’s,http://example.org/webdatamining/entity/greta-gerwig-s,PERSON,,,,,0.3,False,token_overlap
+Gunn,http://example.org/webdatamining/entity/gunn,PERSON,,,,,0.7,False,"exact_label,api_match_text"
+Gus Fring,http://example.org/webdatamining/entity/gus-fring,PERSON,Q5620660,http://www.wikidata.org/entity/Q5620660,Gus Fring,character in the television series Breaking Bad and Better Call Saul,0.9,True,"exact_label,api_match_text,type_hint:television"
+Hank Schrader,http://example.org/webdatamining/entity/hank-schrader,PERSON,Q5648455,http://www.wikidata.org/entity/Q5648455,Hank Schrader,fictional character in the television drama series Breaking Bad,0.9,True,"exact_label,api_match_text,type_hint:television"
+Harmon Oscar Nelson,http://example.org/webdatamining/entity/harmon-oscar-nelson,PERSON,,,,,0.0,False,below_threshold
+Harry S. Truman,http://example.org/webdatamining/entity/harry-s-truman,PERSON,Q11613,http://www.wikidata.org/entity/Q11613,Harry S. Truman,president of the United States from 1945 to 1953; politician (1884–1972),0.75,True,"exact_label,api_match_text"
+Heath Ledger,http://example.org/webdatamining/entity/heath-ledger,PERSON,Q40572,http://www.wikidata.org/entity/Q40572,Heath Ledger,Australian actor (1979–2008),0.9,True,"exact_label,api_match_text,type_hint:actor"
+Hector,http://example.org/webdatamining/entity/hector,PERSON,Q4040512,http://www.wikidata.org/entity/Q4040512,Hector,Finnish singer-songwriter; translator of song lyrics,0.9,True,"exact_label,api_match_text,type_hint:writer"
+Heisenberg,http://example.org/webdatamining/entity/heisenberg,PERSON,,,,,0.7,False,"exact_label,api_match_text"
+J. Robert Oppenheimer,http://example.org/webdatamining/entity/j-robert-oppenheimer,PERSON,,,,,0.7,False,"exact_label,api_match_text"
+J. Robert Oppenheimer’s,http://example.org/webdatamining/entity/j-robert-oppenheimer-s,PERSON,,,,,0.0,False,below_threshold
+James Hilton,http://example.org/webdatamining/entity/james-hilton,PERSON,Q43227,http://www.wikidata.org/entity/Q43227,James Hilton,British novelist and screenwriter (1900–1954),0.85,True,"exact_label,api_match_text,type_hint:writer"
+Jane,http://example.org/webdatamining/entity/jane,PERSON,,,,,0.7,False,"exact_label,api_match_text"
+Jean Tatlock,http://example.org/webdatamining/entity/jean-tatlock,PERSON,Q14859022,http://www.wikidata.org/entity/Q14859022,Jean Tatlock,American activist (1914-1944),0.75,True,"exact_label,api_match_text"
+Jennifer Granholm,http://example.org/webdatamining/entity/jennifer-granholm,PERSON,Q234994,http://www.wikidata.org/entity/Q234994,Jennifer Granholm,16th United States Secretary of Energy,0.75,True,"exact_label,api_match_text"
+Jesse,http://example.org/webdatamining/entity/jesse,PERSON,Q2227398,http://www.wikidata.org/entity/Q2227398,Jesse,unisex given name,0.75,True,"exact_label,api_match_text"
+Jesse Pinkman,http://example.org/webdatamining/entity/jesse-pinkman,PERSON,Q6186746,http://www.wikidata.org/entity/Q6186746,Jesse Pinkman,fictional character of the television drama series Breaking Bad,0.9,True,"exact_label,api_match_text,type_hint:television"
+Jesse Plemons,http://example.org/webdatamining/entity/jesse-plemons,PERSON,Q1138674,http://www.wikidata.org/entity/Q1138674,Jesse Plemons,American actor (born 1988),0.9,True,"exact_label,api_match_text,type_hint:actor"
+Jessica Chastain,http://example.org/webdatamining/entity/jessica-chastain,PERSON,Q229313,http://www.wikidata.org/entity/Q229313,Jessica Chastain,American actress and producer (born 1977),0.9,True,"exact_label,api_match_text,type_hint:producer"
+Jesus,http://example.org/webdatamining/entity/jesus,PERSON,Q1158269,http://www.wikidata.org/entity/Q1158269,Jesus,male given name,0.75,True,"exact_label,api_match_text"
+John Brand,http://example.org/webdatamining/entity/john-brand,PERSON,Q6222954,http://www.wikidata.org/entity/Q6222954,John Brand,English clergyman and writer,0.85,True,"exact_label,api_match_text,type_hint:writer"
+John Brand’s,http://example.org/webdatamining/entity/john-brand-s,PERSON,,,,,0.2167,False,token_overlap
+John Lithgow,http://example.org/webdatamining/entity/john-lithgow,PERSON,Q311271,http://www.wikidata.org/entity/Q311271,John Lithgow,American actor (born 1945),0.85,True,"exact_label,api_match_text,type_hint:actor"
+Johnny Carson,http://example.org/webdatamining/entity/johnny-carson,PERSON,,,,,0.7,False,"exact_label,api_match_text"
+Joker,http://example.org/webdatamining/entity/joker,PERSON,Q42759035,http://www.wikidata.org/entity/Q42759035,Joker,2019 musical film directed by Todd Phillips,0.9,True,"exact_label,api_match_text,type_hint:film"
+Jonathan,http://example.org/webdatamining/entity/jonathan,PERSON,,,,,0.7,False,"exact_label,api_match_text"
+Jonathan Nolan,http://example.org/webdatamining/entity/jonathan-nolan,PERSON,Q372788,http://www.wikidata.org/entity/Q372788,Jonathan Nolan,British-American screenwriter (born 1976),0.9,True,"exact_label,api_match_text,type_hint:writer"
+Joseph Stalin,http://example.org/webdatamining/entity/joseph-stalin,PERSON,,,,,0.7,False,"exact_label,api_match_text"
+Julius S. Oppenheimer,http://example.org/webdatamining/entity/julius-s-oppenheimer,PERSON,,,,,0.0,False,below_threshold
+Kai Bird,http://example.org/webdatamining/entity/kai-bird,PERSON,Q6347357,http://www.wikidata.org/entity/Q6347357,Kai Bird,American journalist,0.75,True,"exact_label,api_match_text"
+Katharine Puening,http://example.org/webdatamining/entity/katharine-puening,PERSON,,,,,0.0,False,below_threshold
+Kip Thorne,http://example.org/webdatamining/entity/kip-thorne,PERSON,,,,,0.4,False,"token_overlap,api_match_text"
+Kitty,http://example.org/webdatamining/entity/kitty,PERSON,Q16278018,http://www.wikidata.org/entity/Q16278018,Kitty,female given name,0.75,True,"exact_label,api_match_text"
+Kitty Oppenheimer,http://example.org/webdatamining/entity/kitty-oppenheimer,PERSON,,,,,0.7,False,"exact_label,api_match_text"
+Krysten Ritter,http://example.org/webdatamining/entity/krysten-ritter,PERSON,Q258793,http://www.wikidata.org/entity/Q258793,Krysten Ritter,American actress (born 1981),0.75,True,"exact_label,api_match_text"
+Lazarus,http://example.org/webdatamining/entity/lazarus,PERSON,,,,,0.7,False,"exact_label,api_match_text"
+Leo Szilard,http://example.org/webdatamining/entity/leo-szilard,PERSON,,,,,0.45,False,partial_label
+Leonardo DiCaprio,http://example.org/webdatamining/entity/leonardo-dicaprio,PERSON,Q38111,http://www.wikidata.org/entity/Q38111,Leonardo DiCaprio,American actor and producer (born 1974),0.9,True,"exact_label,api_match_text,type_hint:actor"
+Leslie Richard Groves,http://example.org/webdatamining/entity/leslie-richard-groves,PERSON,,,,,0.3167,False,"token_overlap,api_match_text"
+Lewis Strauss,http://example.org/webdatamining/entity/lewis-strauss,PERSON,Q1822160,http://www.wikidata.org/entity/Q1822160,Lewis Strauss,American banker and chairman of the U.S. Atomic Energy Commission (1896-1974),0.75,True,"exact_label,api_match_text"
+Ludwig Göransson,http://example.org/webdatamining/entity/ludwig-g-ransson,PERSON,Q1358202,http://www.wikidata.org/entity/Q1358202,Ludwig Göransson,Swedish musician and composer,0.75,True,"exact_label,api_match_text"
+Lyndon B. Johnson,http://example.org/webdatamining/entity/lyndon-b-johnson,PERSON,,,,,0.7,False,"exact_label,api_match_text"
+Mann,http://example.org/webdatamining/entity/mann,PERSON,Q21507877,http://www.wikidata.org/entity/Q21507877,Mann,family name,0.75,True,"exact_label,api_match_text"
+Margaret Herrick,http://example.org/webdatamining/entity/margaret-herrick,PERSON,,,,,0.7,False,"exact_label,api_match_text"
+Margolis,http://example.org/webdatamining/entity/margolis,PERSON,Q21511559,http://www.wikidata.org/entity/Q21511559,Margolis,family name,0.75,True,"exact_label,api_match_text"
+Mark Margolis,http://example.org/webdatamining/entity/mark-margolis,PERSON,Q934506,http://www.wikidata.org/entity/Q934506,Mark Margolis,American actor (1939–2023),0.9,True,"exact_label,api_match_text,type_hint:actor"
+Martin Sherwin,http://example.org/webdatamining/entity/martin-sherwin,PERSON,,,,,0.4,False,"token_overlap,api_match_text"
+Matt Damon,http://example.org/webdatamining/entity/matt-damon,PERSON,Q175535,http://www.wikidata.org/entity/Q175535,Matt Damon,American actor (born 1970),0.9,True,"exact_label,api_match_text,type_hint:actor"
+Matthew McConaughey,http://example.org/webdatamining/entity/matthew-mcconaughey,PERSON,Q188955,http://www.wikidata.org/entity/Q188955,Matthew McConaughey,American actor,0.9,True,"exact_label,api_match_text,type_hint:actor"
+McCarthy,http://example.org/webdatamining/entity/mccarthy,PERSON,,,,,0.7,False,"exact_label,api_match_text"
+Michael B. Jordan,http://example.org/webdatamining/entity/michael-b-jordan,PERSON,Q3308007,http://www.wikidata.org/entity/Q3308007,Michael B. Jordan,American actor (born 1987),0.9,True,"exact_label,api_match_text,type_hint:actor"
+Michael Caine,http://example.org/webdatamining/entity/michael-caine,PERSON,Q123351,http://www.wikidata.org/entity/Q123351,Michael Caine,English actor (born 1933),0.85,True,"exact_label,api_match_text,type_hint:actor"
+Mike Ehrmantraut,http://example.org/webdatamining/entity/mike-ehrmantraut,PERSON,Q16578433,http://www.wikidata.org/entity/Q16578433,Mike Ehrmantraut,fictional character in the television drama series Breaking Bad,0.9,True,"exact_label,api_match_text,type_hint:television"
+Murph,http://example.org/webdatamining/entity/murph,PERSON,,,,,0.6,False,"partial_label,type_hint:actor"
+Murphy,http://example.org/webdatamining/entity/murphy,PERSON,,,,,0.7,False,"exact_label,api_match_text"
+Nolan,http://example.org/webdatamining/entity/nolan,PERSON,,,,,0.7,False,"exact_label,api_match_text"
+Oppenheimer,http://example.org/webdatamining/entity/oppenheimer,PERSON,Q108839994,http://www.wikidata.org/entity/Q108839994,Oppenheimer,2023 film directed by Christopher Nolan,0.85,True,"exact_label,api_match_text,type_hint:film"
+Oscar,http://example.org/webdatamining/entity/oscar,PERSON,Q1951683,http://www.wikidata.org/entity/Q1951683,Oscar,male given name,0.75,True,"exact_label,api_match_text"
+Paul,http://example.org/webdatamining/entity/paul,PERSON,Q4925623,http://www.wikidata.org/entity/Q4925623,Paul,male given name,0.75,True,"exact_label,api_match_text"
+Puening,http://example.org/webdatamining/entity/puening,PERSON,Q120838529,http://www.wikidata.org/entity/Q120838529,Puening,family name,0.75,True,"exact_label,api_match_text"
+Ridley Scott,http://example.org/webdatamining/entity/ridley-scott,PERSON,Q56005,http://www.wikidata.org/entity/Q56005,Ridley Scott,English filmmaker (born 1937),0.85,True,"exact_label,api_match_text,type_hint:film"
+"Robert Downey, Jr",http://example.org/webdatamining/entity/robert-downey-jr,PERSON,,,,,0.6,False,"partial_label,type_hint:film"
+Romilly,http://example.org/webdatamining/entity/romilly,PERSON,Q1170130,http://www.wikidata.org/entity/Q1170130,Romilly,"commune in Loir-et-Cher, France",0.75,True,"exact_label,api_match_text"
+Ryan Coogler,http://example.org/webdatamining/entity/ryan-coogler,PERSON,Q7383978,http://www.wikidata.org/entity/Q7383978,Ryan Coogler,American filmmaker (born 1986),0.9,True,"exact_label,api_match_text,type_hint:film"
+Salamanca,http://example.org/webdatamining/entity/salamanca,PERSON,,,,,0.7,False,"exact_label,api_match_text"
+Saul Goodman,http://example.org/webdatamining/entity/saul-goodman,PERSON,Q7154377,http://www.wikidata.org/entity/Q7154377,Saul Goodman,fictional character in the television drama series Breaking Bad and Better Call Saul,0.85,True,"exact_label,api_match_text,type_hint:television"
+Scarface,http://example.org/webdatamining/entity/scarface,PERSON,Q47075,http://www.wikidata.org/entity/Q47075,Scarface,1983 film directed by Brian De Palma,0.9,True,"exact_label,api_match_text,type_hint:film"
+Sidney Skolsky,http://example.org/webdatamining/entity/sidney-skolsky,PERSON,Q3960172,http://www.wikidata.org/entity/Q3960172,Sidney Skolsky,"American gossip columnist, radio personality, screenwriter and actor (1905-1983)",0.9,True,"exact_label,api_match_text,type_hint:actor"
+Skyler,http://example.org/webdatamining/entity/skyler,PERSON,,,,,0.7,False,"exact_label,api_match_text"
+Spielberg,http://example.org/webdatamining/entity/spielberg,PERSON,,,,,0.7,False,"exact_label,api_match_text"
+Stanley Kubrick’s,http://example.org/webdatamining/entity/stanley-kubrick-s,PERSON,,,,,0.45,False,"token_overlap,type_hint:director"
+Steven Spielberg,http://example.org/webdatamining/entity/steven-spielberg,PERSON,Q8877,http://www.wikidata.org/entity/Q8877,Steven Spielberg,American filmmaker (born 1946),0.9,True,"exact_label,api_match_text,type_hint:film"
+Strauss,http://example.org/webdatamining/entity/strauss,PERSON,Q1341990,http://www.wikidata.org/entity/Q1341990,Strauss,"Retailer for Workwear, Safety Footwear & Personal Protective Equipment",0.9,True,"exact_label,api_match_text,type_hint:person"
+Superman,http://example.org/webdatamining/entity/superman,PERSON,Q213053,http://www.wikidata.org/entity/Q213053,Superman,1978 film by Richard Donner,0.85,True,"exact_label,api_match_text,type_hint:film"
+Tatlock,http://example.org/webdatamining/entity/tatlock,PERSON,,,,,0.7,False,"exact_label,api_match_text"
+Timothée Chalamet,http://example.org/webdatamining/entity/timoth-e-chalamet,PERSON,Q19877770,http://www.wikidata.org/entity/Q19877770,Timothée Chalamet,French-American actor (born 1995),0.9,True,"exact_label,api_match_text,type_hint:actor"
+Todd Alquist,http://example.org/webdatamining/entity/todd-alquist,PERSON,Q16002669,http://www.wikidata.org/entity/Q16002669,Todd Alquist,fictional character in the television drama series Breaking Bad,0.9,True,"exact_label,api_match_text,type_hint:television"
+Tony Montana,http://example.org/webdatamining/entity/tony-montana,PERSON,Q60579511,http://www.wikidata.org/entity/Q60579511,Tony Montana,Colombian pornographic actor,0.85,True,"exact_label,api_match_text,type_hint:actor"
+Walter White,http://example.org/webdatamining/entity/walter-white,PERSON,Q23554,http://www.wikidata.org/entity/Q23554,Walter White,fictional character in the television drama series Breaking Bad,0.9,True,"exact_label,api_match_text,type_hint:television"
+Walter White's,http://example.org/webdatamining/entity/walter-white-s,PERSON,,,,,0.6,False,"partial_label,type_hint:television"
+Walter White’s,http://example.org/webdatamining/entity/walter-white-s,PERSON,,,,,0.6,False,"partial_label,type_hint:television"
+Wes Bentley)—and,http://example.org/webdatamining/entity/wes-bentley-and,PERSON,,,,,0.0,False,below_threshold
+White,http://example.org/webdatamining/entity/white,PERSON,,,,,0.7,False,"exact_label,api_match_text"
+Wunmi Mosaku,http://example.org/webdatamining/entity/wunmi-mosaku,PERSON,Q541803,http://www.wikidata.org/entity/Q541803,Wunmi Mosaku,Nigerian actress,0.75,True,"exact_label,api_match_text"
+#OscarsSoWhite hashtag,http://example.org/webdatamining/entity/oscarssowhite-hashtag,WORK_OF_ART,,,,,0.0,False,below_threshold
+2001: A Space Odyssey,http://example.org/webdatamining/entity/2001-a-space-odyssey,WORK_OF_ART,Q103474,http://www.wikidata.org/entity/Q103474,2001: A Space Odyssey,1968 film by Stanley Kubrick,0.85,True,"exact_label,api_match_text,type_hint:film"
+Academy Award,http://example.org/webdatamining/entity/academy-award,WORK_OF_ART,,,,,0.6,False,"partial_label,type_hint:film"
+Academy Awards,http://example.org/webdatamining/entity/academy-awards,WORK_OF_ART,Q19020,http://www.wikidata.org/entity/Q19020,Academy Awards,annual awards for cinematic achievements,0.75,True,"exact_label,api_match_text"
+Academy Awards of Merit,http://example.org/webdatamining/entity/academy-awards-of-merit,WORK_OF_ART,,,,,0.55,False,"partial_label,api_match_text"
+Academy Awardsnominations,http://example.org/webdatamining/entity/academy-awardsnominations,WORK_OF_ART,,,,,0.0,False,below_threshold
+All About Eve,http://example.org/webdatamining/entity/all-about-eve,WORK_OF_ART,Q200299,http://www.wikidata.org/entity/Q200299,All About Eve,1950 film by Joseph L. Mankiewicz,0.85,True,"exact_label,api_match_text,type_hint:film"
+American Prometheus: The Triumph and Tragedy,http://example.org/webdatamining/entity/american-prometheus-the-triumph-and-tragedy,WORK_OF_ART,,,,,0.4,False,partial_label
+Barbenheimer,http://example.org/webdatamining/entity/barbenheimer,WORK_OF_ART,Q120188610,http://www.wikidata.org/entity/Q120188610,Barbenheimer,Internet meme about the competition between the 2023 films Barbie and Oppenheimer,0.85,True,"exact_label,api_match_text,type_hint:film"
+Barbie,http://example.org/webdatamining/entity/barbie,WORK_OF_ART,,,,,0.7,False,"exact_label,api_match_text"
+Batman & Robin,http://example.org/webdatamining/entity/batman-robin,WORK_OF_ART,Q276523,http://www.wikidata.org/entity/Q276523,Batman & Robin,1997 film directed by Joel Schumacher,0.85,True,"exact_label,api_match_text,type_hint:film"
+Batman Begins,http://example.org/webdatamining/entity/batman-begins,WORK_OF_ART,Q166262,http://www.wikidata.org/entity/Q166262,Batman Begins,2005 film by Christopher Nolan,0.85,True,"exact_label,api_match_text,type_hint:film"
+Better Call Saul,http://example.org/webdatamining/entity/better-call-saul,WORK_OF_ART,Q14925221,http://www.wikidata.org/entity/Q14925221,Better Call Saul,American crime drama television series (2015–2022),0.85,True,"exact_label,api_match_text,type_hint:television"
+Breaking Bad,http://example.org/webdatamining/entity/breaking-bad,WORK_OF_ART,Q1079,http://www.wikidata.org/entity/Q1079,Breaking Bad,American crime drama television series (2008–2013),0.85,True,"exact_label,api_match_text,type_hint:television"
+Dunkirk,http://example.org/webdatamining/entity/dunkirk,WORK_OF_ART,Q21935651,http://www.wikidata.org/entity/Q21935651,Dunkirk,2017 film by Christopher Nolan,0.85,True,"exact_label,api_match_text,type_hint:film"
+El Camino: A Breaking Bad Movie,http://example.org/webdatamining/entity/el-camino-a-breaking-bad-movie,WORK_OF_ART,Q61741521,http://www.wikidata.org/entity/Q61741521,El Camino: A Breaking Bad Movie,2019 American film by Vince Gilligan,0.9,True,"exact_label,api_match_text,type_hint:film"
+Following,http://example.org/webdatamining/entity/following,WORK_OF_ART,Q685817,http://www.wikidata.org/entity/Q685817,Following,1998 film by Christopher Nolan,0.85,True,"exact_label,api_match_text,type_hint:film"
+"Goodbye, Mr. Chips",http://example.org/webdatamining/entity/goodbye-mr-chips,WORK_OF_ART,Q43228,http://www.wikidata.org/entity/Q43228,"Goodbye, Mr. Chips",1939 film by Sam Wood,0.85,True,"exact_label,api_match_text,type_hint:film"
+Inception,http://example.org/webdatamining/entity/inception,WORK_OF_ART,Q25188,http://www.wikidata.org/entity/Q25188,Inception,2010 film directed by Christopher Nolan,0.85,True,"exact_label,api_match_text,type_hint:film"
+Insomnia,http://example.org/webdatamining/entity/insomnia,WORK_OF_ART,,,,,0.7,False,"exact_label,api_match_text"
+Interstellar,http://example.org/webdatamining/entity/interstellar,WORK_OF_ART,Q13417189,http://www.wikidata.org/entity/Q13417189,Interstellar,2014 film by Christopher Nolan,0.85,True,"exact_label,api_match_text,type_hint:film"
+La La Land,http://example.org/webdatamining/entity/la-la-land,WORK_OF_ART,Q20856802,http://www.wikidata.org/entity/Q20856802,La La Land,2016 film directed by Damien Chazelle,0.85,True,"exact_label,api_match_text,type_hint:film"
+Malcolm in the Middle,http://example.org/webdatamining/entity/malcolm-in-the-middle,WORK_OF_ART,Q242596,http://www.wikidata.org/entity/Q242596,Malcolm in the Middle,American television sitcom (2000–2006),0.9,True,"exact_label,api_match_text,type_hint:television"
+Man of Steel,http://example.org/webdatamining/entity/man-of-steel,WORK_OF_ART,Q622769,http://www.wikidata.org/entity/Q622769,Man of Steel,2013 film directed by Zack Snyder,0.9,True,"exact_label,api_match_text,type_hint:film"
+Mankind,http://example.org/webdatamining/entity/mankind,WORK_OF_ART,,,,,0.7,False,"exact_label,api_match_text"
+Memento,http://example.org/webdatamining/entity/memento,WORK_OF_ART,Q190525,http://www.wikidata.org/entity/Q190525,Memento,2000 film by Christopher Nolan,0.85,True,"exact_label,api_match_text,type_hint:film"
+Nobel Prize,http://example.org/webdatamining/entity/nobel-prize,WORK_OF_ART,Q7191,http://www.wikidata.org/entity/Q7191,Nobel Prize,"set of annual international awards, primarily 5 established in 1895 by Alfred Nobel",0.75,True,"exact_label,api_match_text"
+One Battle After Another,http://example.org/webdatamining/entity/one-battle-after-another,WORK_OF_ART,Q117085614,http://www.wikidata.org/entity/Q117085614,One Battle After Another,2025 film directed by Paul Thomas Anderson,0.9,True,"exact_label,api_match_text,type_hint:film"
+Oppenheimer,http://example.org/webdatamining/entity/oppenheimer,WORK_OF_ART,Q108839994,http://www.wikidata.org/entity/Q108839994,Oppenheimer,2023 film directed by Christopher Nolan,0.85,True,"exact_label,api_match_text,type_hint:film"
+Oscar,http://example.org/webdatamining/entity/oscar,WORK_OF_ART,Q1951683,http://www.wikidata.org/entity/Q1951683,Oscar,male given name,0.75,True,"exact_label,api_match_text"
+Oscars,http://example.org/webdatamining/entity/oscars,WORK_OF_ART,,,,,0.45,False,partial_label
+Plot,http://example.org/webdatamining/entity/plot,WORK_OF_ART,Q1758354,http://www.wikidata.org/entity/Q1758354,plot,concept in narratology: presentation of a sequence of events in a narrative work,0.9,True,"exact_label,api_match_text,type_hint:work"
+Pulitzer Prize,http://example.org/webdatamining/entity/pulitzer-prize,WORK_OF_ART,Q46525,http://www.wikidata.org/entity/Q46525,Pulitzer Prize,"award for achievements in journalism, literature, and musical composition within the United States in several categories",0.75,True,"exact_label,api_match_text"
+Reception,http://example.org/webdatamining/entity/reception,WORK_OF_ART,Q66317493,http://www.wikidata.org/entity/Q66317493,reception,formal party,0.75,True,"exact_label,api_match_text"
+Scarface,http://example.org/webdatamining/entity/scarface,WORK_OF_ART,Q47075,http://www.wikidata.org/entity/Q47075,Scarface,1983 film directed by Brian De Palma,0.9,True,"exact_label,api_match_text,type_hint:film"
+Seinfeld,http://example.org/webdatamining/entity/seinfeld,WORK_OF_ART,Q23733,http://www.wikidata.org/entity/Q23733,Seinfeld,American television sitcom (1989–1998),0.85,True,"exact_label,api_match_text,type_hint:television"
+Sinners,http://example.org/webdatamining/entity/sinners,WORK_OF_ART,Q7524696,http://www.wikidata.org/entity/Q7524696,Sinners,2007 film,0.85,True,"exact_label,api_match_text,type_hint:film"
+Star Wars,http://example.org/webdatamining/entity/star-wars,WORK_OF_ART,Q27563322,http://www.wikidata.org/entity/Q27563322,Star Wars,comic book series published by Marvel Comics from 1977 to 1986,0.85,True,"exact_label,api_match_text,type_hint:series"
+Tenet,http://example.org/webdatamining/entity/tenet,WORK_OF_ART,Q63985561,http://www.wikidata.org/entity/Q63985561,Tenet,2020 film directed by Christopher Nolan,0.85,True,"exact_label,api_match_text,type_hint:film"
+The Academy Awards,http://example.org/webdatamining/entity/the-academy-awards,WORK_OF_ART,,,,,0.55,False,"partial_label,api_match_text"
+The Dark Knight,http://example.org/webdatamining/entity/the-dark-knight,WORK_OF_ART,Q163872,http://www.wikidata.org/entity/Q163872,The Dark Knight,2008 film directed by Christopher Nolan,0.85,True,"exact_label,api_match_text,type_hint:film"
+The Dark Knight Rises,http://example.org/webdatamining/entity/the-dark-knight-rises,WORK_OF_ART,Q189330,http://www.wikidata.org/entity/Q189330,The Dark Knight Rises,2012 superhero film by Christopher Nolan,0.85,True,"exact_label,api_match_text,type_hint:film"
+The Dark KnightThe,http://example.org/webdatamining/entity/the-dark-knightthe,WORK_OF_ART,,,,,0.0,False,below_threshold
+The Prestige,http://example.org/webdatamining/entity/the-prestige,WORK_OF_ART,Q46551,http://www.wikidata.org/entity/Q46551,The Prestige,2006 film directed by Christopher Nolan,0.85,True,"exact_label,api_match_text,type_hint:film"
+The X,http://example.org/webdatamining/entity/the-x,WORK_OF_ART,Q136242657,http://www.wikidata.org/entity/Q136242657,The X,2025 EP by Monsta X,0.75,True,"exact_label,api_match_text"
+Titanic,http://example.org/webdatamining/entity/titanic,WORK_OF_ART,Q44578,http://www.wikidata.org/entity/Q44578,Titanic,1997 film by James Cameron,0.85,True,"exact_label,api_match_text,type_hint:film"
+a Golden Globe Award,http://example.org/webdatamining/entity/a-golden-globe-award,WORK_OF_ART,,,,,0.0,False,below_threshold
+an Academy Award,http://example.org/webdatamining/entity/an-academy-award,WORK_OF_ART,,,,,0.0,False,below_threshold
+an Oscar and,http://example.org/webdatamining/entity/an-oscar-and,WORK_OF_ART,,,,,0.0,False,below_threshold
+the Academy Award,http://example.org/webdatamining/entity/the-academy-award,WORK_OF_ART,,,,,0.45,False,partial_label
+the Academy Awards,http://example.org/webdatamining/entity/the-academy-awards,WORK_OF_ART,,,,,0.55,False,"partial_label,api_match_text"
+the Enrico Fermi Award,http://example.org/webdatamining/entity/the-enrico-fermi-award,WORK_OF_ART,,,,,0.45,False,partial_label
+the Golden Globe,http://example.org/webdatamining/entity/the-golden-globe,WORK_OF_ART,,,,,0.7,False,"exact_label,api_match_text"
+the Golden Globe Awards,http://example.org/webdatamining/entity/the-golden-globe-awards,WORK_OF_ART,,,,,0.0,False,below_threshold
+the Gordon E. Sawyer Award,http://example.org/webdatamining/entity/the-gordon-e-sawyer-award,WORK_OF_ART,,,,,0.0,False,below_threshold
+the Irving G. Thalberg Memorial Award,http://example.org/webdatamining/entity/the-irving-g-thalberg-memorial-award,WORK_OF_ART,,,,,0.0,False,below_threshold

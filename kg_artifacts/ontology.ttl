@@ -1,0 +1,265 @@
+@prefix ont: <http://example.org/webdatamining/ontology/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix prop: <http://example.org/webdatamining/property/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+prop:attack a owl:ObjectProperty ;
+    rdfs:label "attack" ;
+    rdfs:domain ont:Person ;
+    rdfs:range ont:Person .
+
+prop:beRelation a owl:ObjectProperty ;
+    rdfs:label "be" .
+
+prop:bearOn a owl:ObjectProperty ;
+    rdfs:label "bear_on" ;
+    rdfs:domain ont:Work .
+
+prop:beginIn a owl:ObjectProperty ;
+    rdfs:label "begin_in" ;
+    rdfs:domain ont:Person ;
+    rdfs:range ont:DateEntity .
+
+prop:broadcastOn a owl:ObjectProperty ;
+    rdfs:label "broadcast_on" ;
+    rdfs:domain ont:Work ;
+    rdfs:range ont:Organization .
+
+prop:call a owl:ObjectProperty ;
+    rdfs:label "call" ;
+    rdfs:domain ont:Work ;
+    rdfs:range ont:Work .
+
+prop:cast a owl:ObjectProperty ;
+    rdfs:label "cast" ;
+    rdfs:domain ont:Organization ;
+    rdfs:range ont:Person .
+
+prop:cause a owl:ObjectProperty ;
+    rdfs:label "cause" ;
+    rdfs:domain ont:Place ;
+    rdfs:range ont:Event .
+
+prop:choose a owl:ObjectProperty ;
+    rdfs:label "choose" ;
+    rdfs:domain ont:Person ;
+    rdfs:range ont:Person .
+
+prop:confessTo a owl:ObjectProperty ;
+    rdfs:label "confess_to" ;
+    rdfs:domain ont:Person ;
+    rdfs:range ont:Person .
+
+prop:doIn a owl:ObjectProperty ;
+    rdfs:label "do_in" ;
+    rdfs:domain ont:Person ;
+    rdfs:range ont:Organization .
+
+prop:enlist a owl:ObjectProperty ;
+    rdfs:label "enlist" ;
+    rdfs:domain ont:Organization ;
+    rdfs:range ont:Person .
+
+prop:enlistIn a owl:ObjectProperty ;
+    rdfs:label "enlist_in" ;
+    rdfs:domain ont:Organization ;
+    rdfs:range ont:DateEntity .
+
+prop:excelIn a owl:ObjectProperty ;
+    rdfs:label "excel_in" ;
+    rdfs:domain ont:Person .
+
+prop:exitIn a owl:ObjectProperty ;
+    rdfs:label "exit_in" ;
+    rdfs:domain ont:Person ;
+    rdfs:range ont:DateEntity .
+
+prop:followWith a owl:ObjectProperty ;
+    rdfs:label "follow_with" ;
+    rdfs:domain ont:Person ;
+    rdfs:range ont:Work .
+
+prop:foundIn a owl:ObjectProperty ;
+    rdfs:label "found_in" ;
+    rdfs:domain ont:Organization ;
+    rdfs:range ont:DateEntity .
+
+prop:giveIn a owl:ObjectProperty ;
+    rdfs:label "give_in" ;
+    rdfs:domain ont:Organization ;
+    rdfs:range ont:DateEntity .
+
+prop:gross a owl:ObjectProperty ;
+    rdfs:label "gross" ;
+    rdfs:domain ont:Work .
+
+prop:grossBy a owl:ObjectProperty ;
+    rdfs:label "gross_by" ;
+    rdfs:domain ont:Organization ;
+    rdfs:range ont:DateEntity .
+
+prop:grossIn a owl:ObjectProperty ;
+    rdfs:label "gross_in" ;
+    rdfs:domain ont:Work ;
+    rdfs:range ont:Place .
+
+prop:haveAt a owl:ObjectProperty ;
+    rdfs:label "have_at" ;
+    rdfs:domain ont:Person ;
+    rdfs:range ont:Organization .
+
+prop:helm a owl:ObjectProperty ;
+    rdfs:label "helm" ;
+    rdfs:domain ont:Person ;
+    rdfs:range ont:Work .
+
+prop:hold a owl:ObjectProperty ;
+    rdfs:label "hold" ;
+    rdfs:domain ont:Work ;
+    rdfs:range ont:DateEntity .
+
+prop:holdAt a owl:ObjectProperty ;
+    rdfs:label "hold_at" ;
+    rdfs:domain ont:Work .
+
+prop:initiateIn a owl:ObjectProperty ;
+    rdfs:label "initiate_in" ;
+    rdfs:domain ont:Person ;
+    rdfs:range ont:DateEntity .
+
+prop:lookLike a owl:ObjectProperty ;
+    rdfs:label "look_like" ;
+    rdfs:domain ont:Person ;
+    rdfs:range ont:Person .
+
+prop:opposeIn a owl:ObjectProperty ;
+    rdfs:label "oppose_in" ;
+    rdfs:domain ont:Organization ;
+    rdfs:range ont:DateEntity .
+
+prop:present a owl:ObjectProperty ;
+    rdfs:label "present" ;
+    rdfs:domain ont:Person ;
+    rdfs:range ont:Person .
+
+prop:presentIn a owl:ObjectProperty ;
+    rdfs:label "present_in" ;
+    rdfs:domain ont:Person ;
+    rdfs:range ont:DateEntity .
+
+prop:presentWith a owl:ObjectProperty ;
+    rdfs:label "present_with" ;
+    rdfs:domain ont:Person ;
+    rdfs:range ont:Work .
+
+prop:releaseIn a owl:ObjectProperty ;
+    rdfs:label "release_in" ;
+    rdfs:domain ont:Organization ;
+    rdfs:range ont:DateEntity .
+
+prop:rescue a owl:ObjectProperty ;
+    rdfs:label "rescue" ;
+    rdfs:domain ont:Person ;
+    rdfs:range ont:Person .
+
+prop:resignIn a owl:ObjectProperty ;
+    rdfs:label "resign_in" ;
+    rdfs:domain ont:Person ;
+    rdfs:range ont:DateEntity .
+
+prop:retireFrom a owl:ObjectProperty ;
+    rdfs:label "retire_from" ;
+    rdfs:domain ont:Person ;
+    rdfs:range ont:Organization .
+
+prop:retireIn a owl:ObjectProperty ;
+    rdfs:label "retire_in" ;
+    rdfs:domain ont:Person ;
+    rdfs:range ont:DateEntity .
+
+prop:separateFrom a owl:ObjectProperty ;
+    rdfs:label "separate_from" ;
+    rdfs:domain ont:Person .
+
+prop:serveTo a owl:ObjectProperty ;
+    rdfs:label "serve_to" ;
+    rdfs:domain ont:Person ;
+    rdfs:range ont:Work .
+
+prop:signIn a owl:ObjectProperty ;
+    rdfs:label "sign_in" ;
+    rdfs:domain ont:Organization ;
+    rdfs:range ont:DateEntity .
+
+prop:star a owl:ObjectProperty ;
+    rdfs:label "star" ;
+    rdfs:domain ont:Work ;
+    rdfs:range ont:Person .
+
+prop:televiseIn a owl:ObjectProperty ;
+    rdfs:label "televise_in" ;
+    rdfs:domain ont:Work ;
+    rdfs:range ont:DateEntity .
+
+prop:tell a owl:ObjectProperty ;
+    rdfs:label "tell" ;
+    rdfs:domain ont:Person ;
+    rdfs:range ont:Organization .
+
+prop:tellIn a owl:ObjectProperty ;
+    rdfs:label "tell_in" ;
+    rdfs:domain ont:Person ;
+    rdfs:range ont:DateEntity .
+
+prop:vacateIn a owl:ObjectProperty ;
+    rdfs:label "vacate_in" ;
+    rdfs:domain ont:Organization ;
+    rdfs:range ont:DateEntity .
+
+prop:win a owl:ObjectProperty ;
+    rdfs:label "win" ;
+    rdfs:domain ont:Person ;
+    rdfs:range ont:Work .
+
+prop:winFor a owl:ObjectProperty ;
+    rdfs:label "win_for" ;
+    rdfs:domain ont:Person ;
+    rdfs:range ont:Organization .
+
+prop:winIn a owl:ObjectProperty ;
+    rdfs:label "win_in" ;
+    rdfs:domain ont:Person ;
+    rdfs:range ont:DateEntity .
+
+prop:workFor a owl:ObjectProperty ;
+    rdfs:label "work_for" ;
+    rdfs:range ont:DateEntity .
+
+prop:workOn a owl:ObjectProperty ;
+    rdfs:label "work_on" ;
+    rdfs:domain ont:Person ;
+    rdfs:range ont:DateEntity .
+
+ont:Event a owl:Class ;
+    rdfs:label "Event" .
+
+ont:Agent a owl:Class ;
+    rdfs:label "Agent" .
+
+ont:Place a owl:Class ;
+    rdfs:label "Place" .
+
+ont:Work a owl:Class ;
+    rdfs:label "Work" .
+
+ont:Organization a owl:Class ;
+    rdfs:label "Organization" ;
+    rdfs:subClassOf ont:Agent .
+
+ont:DateEntity a owl:Class ;
+    rdfs:label "DateEntity" .
+
+ont:Person a owl:Class ;
+    rdfs:label "Person" ;
+    rdfs:subClassOf ont:Agent .
+

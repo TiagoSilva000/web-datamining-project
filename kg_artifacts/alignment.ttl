@@ -1,0 +1,306 @@
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+
+<http://example.org/webdatamining/entity/2001-a-space-odyssey> owl:sameAs <http://www.wikidata.org/entity/Q103474> .
+
+<http://example.org/webdatamining/entity/abc> owl:sameAs <http://www.wikidata.org/entity/Q45777> .
+
+<http://example.org/webdatamining/entity/academy> owl:sameAs <http://www.wikidata.org/entity/Q162633> .
+
+<http://example.org/webdatamining/entity/academy-awards> owl:sameAs <http://www.wikidata.org/entity/Q19020> .
+
+<http://example.org/webdatamining/entity/al-pacino> owl:sameAs <http://www.wikidata.org/entity/Q41163> .
+
+<http://example.org/webdatamining/entity/alamogordo> owl:sameAs <http://www.wikidata.org/entity/Q467617> .
+
+<http://example.org/webdatamining/entity/albert-einstein> owl:sameAs <http://www.wikidata.org/entity/Q937> .
+
+<http://example.org/webdatamining/entity/albuquerque> owl:sameAs <http://www.wikidata.org/entity/Q34804> .
+
+<http://example.org/webdatamining/entity/all-about-eve> owl:sameAs <http://www.wikidata.org/entity/Q200299> .
+
+<http://example.org/webdatamining/entity/amc> owl:sameAs <http://www.wikidata.org/entity/Q294660> .
+
+<http://example.org/webdatamining/entity/amelia-brand> owl:sameAs <http://www.wikidata.org/entity/Q113127006> .
+
+<http://example.org/webdatamining/entity/april-reign> owl:sameAs <http://www.wikidata.org/entity/Q104424812> .
+
+<http://example.org/webdatamining/entity/barbenheimer> owl:sameAs <http://www.wikidata.org/entity/Q120188610> .
+
+<http://example.org/webdatamining/entity/batman-begins> owl:sameAs <http://www.wikidata.org/entity/Q166262> .
+
+<http://example.org/webdatamining/entity/batman-robin> owl:sameAs <http://www.wikidata.org/entity/Q276523> .
+
+<http://example.org/webdatamining/entity/bette-davis> owl:sameAs <http://www.wikidata.org/entity/Q71206> .
+
+<http://example.org/webdatamining/entity/better-call-saul> owl:sameAs <http://www.wikidata.org/entity/Q14925221> .
+
+<http://example.org/webdatamining/entity/beverly-hills> owl:sameAs <http://www.wikidata.org/entity/Q127856> .
+
+<http://example.org/webdatamining/entity/billy-crystal> owl:sameAs <http://www.wikidata.org/entity/Q186485> .
+
+<http://example.org/webdatamining/entity/bob-hope> owl:sameAs <http://www.wikidata.org/entity/Q94081> .
+
+<http://example.org/webdatamining/entity/bob-odenkirk> owl:sameAs <http://www.wikidata.org/entity/Q888178> .
+
+<http://example.org/webdatamining/entity/breaking-bad> owl:sameAs <http://www.wikidata.org/entity/Q1079> .
+
+<http://example.org/webdatamining/entity/bryan-cranston> owl:sameAs <http://www.wikidata.org/entity/Q23547> .
+
+<http://example.org/webdatamining/entity/california> owl:sameAs <http://www.wikidata.org/entity/Q99> .
+
+<http://example.org/webdatamining/entity/cassandra-kulukundis> owl:sameAs <http://www.wikidata.org/entity/Q137855674> .
+
+<http://example.org/webdatamining/entity/cedric-gibbons> owl:sameAs <http://www.wikidata.org/entity/Q727904> .
+
+<http://example.org/webdatamining/entity/chicago> owl:sameAs <http://www.wikidata.org/entity/Q1297> .
+
+<http://example.org/webdatamining/entity/chips> owl:sameAs <http://www.wikidata.org/entity/Q1023688> .
+
+<http://example.org/webdatamining/entity/christian-bale> owl:sameAs <http://www.wikidata.org/entity/Q45772> .
+
+<http://example.org/webdatamining/entity/christopher> owl:sameAs <http://www.wikidata.org/entity/Q1084472> .
+
+<http://example.org/webdatamining/entity/christopher-nolan> owl:sameAs <http://www.wikidata.org/entity/Q25191> .
+
+<http://example.org/webdatamining/entity/cillian-murphy> owl:sameAs <http://www.wikidata.org/entity/Q202589> .
+
+<http://example.org/webdatamining/entity/david-gyasi> owl:sameAs <http://www.wikidata.org/entity/Q1174630> .
+
+<http://example.org/webdatamining/entity/delroy-lindo> owl:sameAs <http://www.wikidata.org/entity/Q362559> .
+
+<http://example.org/webdatamining/entity/dunkirk> owl:sameAs <http://www.wikidata.org/entity/Q21935651> .
+
+<http://example.org/webdatamining/entity/el-camino-a-breaking-bad-movie> owl:sameAs <http://www.wikidata.org/entity/Q61741521> .
+
+<http://example.org/webdatamining/entity/ella-friedman> owl:sameAs <http://www.wikidata.org/entity/Q66712630> .
+
+<http://example.org/webdatamining/entity/ellen-burstyn> owl:sameAs <http://www.wikidata.org/entity/Q211144> .
+
+<http://example.org/webdatamining/entity/emily-blunt> owl:sameAs <http://www.wikidata.org/entity/Q193517> .
+
+<http://example.org/webdatamining/entity/emma-thomas> owl:sameAs <http://www.wikidata.org/entity/Q242951> .
+
+<http://example.org/webdatamining/entity/energy> owl:sameAs <http://www.wikidata.org/entity/Q12482493> .
+
+<http://example.org/webdatamining/entity/england> owl:sameAs <http://www.wikidata.org/entity/Q21> .
+
+<http://example.org/webdatamining/entity/ernest-rutherford> owl:sameAs <http://www.wikidata.org/entity/Q9123> .
+
+<http://example.org/webdatamining/entity/eugene-wigner> owl:sameAs <http://www.wikidata.org/entity/Q155790> .
+
+<http://example.org/webdatamining/entity/fbi> owl:sameAs <http://www.wikidata.org/entity/Q846087> .
+
+<http://example.org/webdatamining/entity/following> owl:sameAs <http://www.wikidata.org/entity/Q685817> .
+
+<http://example.org/webdatamining/entity/france> owl:sameAs <http://www.wikidata.org/entity/Q142> .
+
+<http://example.org/webdatamining/entity/gary-oldman> owl:sameAs <http://www.wikidata.org/entity/Q83492> .
+
+<http://example.org/webdatamining/entity/germany> owl:sameAs <http://www.wikidata.org/entity/Q183> .
+
+<http://example.org/webdatamining/entity/giancarlo-esposito> owl:sameAs <http://www.wikidata.org/entity/Q726142> .
+
+<http://example.org/webdatamining/entity/gilligan> owl:sameAs <http://www.wikidata.org/entity/Q16870188> .
+
+<http://example.org/webdatamining/entity/goodbye-mr-chips> owl:sameAs <http://www.wikidata.org/entity/Q43228> .
+
+<http://example.org/webdatamining/entity/gotham-city> owl:sameAs <http://www.wikidata.org/entity/Q732858> .
+
+<http://example.org/webdatamining/entity/gus-fring> owl:sameAs <http://www.wikidata.org/entity/Q5620660> .
+
+<http://example.org/webdatamining/entity/haileybury> owl:sameAs <http://www.wikidata.org/entity/Q9284985> .
+
+<http://example.org/webdatamining/entity/hank-schrader> owl:sameAs <http://www.wikidata.org/entity/Q5648455> .
+
+<http://example.org/webdatamining/entity/harry-s-truman> owl:sameAs <http://www.wikidata.org/entity/Q11613> .
+
+<http://example.org/webdatamining/entity/harvard-university> owl:sameAs <http://www.wikidata.org/entity/Q13371> .
+
+<http://example.org/webdatamining/entity/heath-ledger> owl:sameAs <http://www.wikidata.org/entity/Q40572> .
+
+<http://example.org/webdatamining/entity/hector> owl:sameAs <http://www.wikidata.org/entity/Q4040512> .
+
+<http://example.org/webdatamining/entity/hiroshima> owl:sameAs <http://www.wikidata.org/entity/Q34664> .
+
+<http://example.org/webdatamining/entity/hollywood> owl:sameAs <http://www.wikidata.org/entity/Q34006> .
+
+<http://example.org/webdatamining/entity/inception> owl:sameAs <http://www.wikidata.org/entity/Q25188> .
+
+<http://example.org/webdatamining/entity/interstellar> owl:sameAs <http://www.wikidata.org/entity/Q13417189> .
+
+<http://example.org/webdatamining/entity/james-hilton> owl:sameAs <http://www.wikidata.org/entity/Q43227> .
+
+<http://example.org/webdatamining/entity/jean-tatlock> owl:sameAs <http://www.wikidata.org/entity/Q14859022> .
+
+<http://example.org/webdatamining/entity/jennifer-granholm> owl:sameAs <http://www.wikidata.org/entity/Q234994> .
+
+<http://example.org/webdatamining/entity/jesse> owl:sameAs <http://www.wikidata.org/entity/Q2227398> .
+
+<http://example.org/webdatamining/entity/jesse-pinkman> owl:sameAs <http://www.wikidata.org/entity/Q6186746> .
+
+<http://example.org/webdatamining/entity/jesse-plemons> owl:sameAs <http://www.wikidata.org/entity/Q1138674> .
+
+<http://example.org/webdatamining/entity/jessica-chastain> owl:sameAs <http://www.wikidata.org/entity/Q229313> .
+
+<http://example.org/webdatamining/entity/jesus> owl:sameAs <http://www.wikidata.org/entity/Q1158269> .
+
+<http://example.org/webdatamining/entity/john-brand> owl:sameAs <http://www.wikidata.org/entity/Q6222954> .
+
+<http://example.org/webdatamining/entity/john-lithgow> owl:sameAs <http://www.wikidata.org/entity/Q311271> .
+
+<http://example.org/webdatamining/entity/joker> owl:sameAs <http://www.wikidata.org/entity/Q42759035> .
+
+<http://example.org/webdatamining/entity/jonathan-nolan> owl:sameAs <http://www.wikidata.org/entity/Q372788> .
+
+<http://example.org/webdatamining/entity/kai-bird> owl:sameAs <http://www.wikidata.org/entity/Q6347357> .
+
+<http://example.org/webdatamining/entity/kitty> owl:sameAs <http://www.wikidata.org/entity/Q16278018> .
+
+<http://example.org/webdatamining/entity/kodak> owl:sameAs <http://www.wikidata.org/entity/Q486269> .
+
+<http://example.org/webdatamining/entity/krysten-ritter> owl:sameAs <http://www.wikidata.org/entity/Q258793> .
+
+<http://example.org/webdatamining/entity/la-la-land> owl:sameAs <http://www.wikidata.org/entity/Q20856802> .
+
+<http://example.org/webdatamining/entity/leonardo-dicaprio> owl:sameAs <http://www.wikidata.org/entity/Q38111> .
+
+<http://example.org/webdatamining/entity/lewis-strauss> owl:sameAs <http://www.wikidata.org/entity/Q1822160> .
+
+<http://example.org/webdatamining/entity/london> owl:sameAs <http://www.wikidata.org/entity/Q84> .
+
+<http://example.org/webdatamining/entity/los-alamos> owl:sameAs <http://www.wikidata.org/entity/Q318637> .
+
+<http://example.org/webdatamining/entity/los-angeles-county> owl:sameAs <http://www.wikidata.org/entity/Q104994> .
+
+<http://example.org/webdatamining/entity/ludwig-g-ransson> owl:sameAs <http://www.wikidata.org/entity/Q1358202> .
+
+<http://example.org/webdatamining/entity/malcolm-in-the-middle> owl:sameAs <http://www.wikidata.org/entity/Q242596> .
+
+<http://example.org/webdatamining/entity/man-of-steel> owl:sameAs <http://www.wikidata.org/entity/Q622769> .
+
+<http://example.org/webdatamining/entity/mann> owl:sameAs <http://www.wikidata.org/entity/Q21507877> .
+
+<http://example.org/webdatamining/entity/margolis> owl:sameAs <http://www.wikidata.org/entity/Q21511559> .
+
+<http://example.org/webdatamining/entity/mark-margolis> owl:sameAs <http://www.wikidata.org/entity/Q934506> .
+
+<http://example.org/webdatamining/entity/matt-damon> owl:sameAs <http://www.wikidata.org/entity/Q175535> .
+
+<http://example.org/webdatamining/entity/matthew-mcconaughey> owl:sameAs <http://www.wikidata.org/entity/Q188955> .
+
+<http://example.org/webdatamining/entity/memento> owl:sameAs <http://www.wikidata.org/entity/Q190525> .
+
+<http://example.org/webdatamining/entity/metro-goldwyn-mayer> owl:sameAs <http://www.wikidata.org/entity/Q179200> .
+
+<http://example.org/webdatamining/entity/mgm> owl:sameAs <http://www.wikidata.org/entity/Q134894733> .
+
+<http://example.org/webdatamining/entity/michael-b-jordan> owl:sameAs <http://www.wikidata.org/entity/Q3308007> .
+
+<http://example.org/webdatamining/entity/michael-caine> owl:sameAs <http://www.wikidata.org/entity/Q123351> .
+
+<http://example.org/webdatamining/entity/mike-ehrmantraut> owl:sameAs <http://www.wikidata.org/entity/Q16578433> .
+
+<http://example.org/webdatamining/entity/nagasaki> owl:sameAs <http://www.wikidata.org/entity/Q38234> .
+
+<http://example.org/webdatamining/entity/nasa> owl:sameAs <http://www.wikidata.org/entity/Q309751> .
+
+<http://example.org/webdatamining/entity/national-football-conference> owl:sameAs <http://www.wikidata.org/entity/Q319007> .
+
+<http://example.org/webdatamining/entity/nbc> owl:sameAs <http://www.wikidata.org/entity/Q13974> .
+
+<http://example.org/webdatamining/entity/netflix> owl:sameAs <http://www.wikidata.org/entity/Q907311> .
+
+<http://example.org/webdatamining/entity/new-jersey> owl:sameAs <http://www.wikidata.org/entity/Q1408> .
+
+<http://example.org/webdatamining/entity/new-mexico> owl:sameAs <http://www.wikidata.org/entity/Q1522> .
+
+<http://example.org/webdatamining/entity/new-york> owl:sameAs <http://www.wikidata.org/entity/Q1384> .
+
+<http://example.org/webdatamining/entity/new-york-city> owl:sameAs <http://www.wikidata.org/entity/Q60> .
+
+<http://example.org/webdatamining/entity/nobel-prize> owl:sameAs <http://www.wikidata.org/entity/Q7191> .
+
+<http://example.org/webdatamining/entity/one-battle-after-another> owl:sameAs <http://www.wikidata.org/entity/Q117085614> .
+
+<http://example.org/webdatamining/entity/oppenheimer> owl:sameAs <http://www.wikidata.org/entity/Q108839994> .
+
+<http://example.org/webdatamining/entity/oscar> owl:sameAs <http://www.wikidata.org/entity/Q1951683> .
+
+<http://example.org/webdatamining/entity/paul> owl:sameAs <http://www.wikidata.org/entity/Q4925623> .
+
+<http://example.org/webdatamining/entity/plot> owl:sameAs <http://www.wikidata.org/entity/Q1758354> .
+
+<http://example.org/webdatamining/entity/poland> owl:sameAs <http://www.wikidata.org/entity/Q36> .
+
+<http://example.org/webdatamining/entity/princeton> owl:sameAs <http://www.wikidata.org/entity/Q138518> .
+
+<http://example.org/webdatamining/entity/puening> owl:sameAs <http://www.wikidata.org/entity/Q120838529> .
+
+<http://example.org/webdatamining/entity/pulitzer-prize> owl:sameAs <http://www.wikidata.org/entity/Q46525> .
+
+<http://example.org/webdatamining/entity/reception> owl:sameAs <http://www.wikidata.org/entity/Q66317493> .
+
+<http://example.org/webdatamining/entity/ridley-scott> owl:sameAs <http://www.wikidata.org/entity/Q56005> .
+
+<http://example.org/webdatamining/entity/romilly> owl:sameAs <http://www.wikidata.org/entity/Q1170130> .
+
+<http://example.org/webdatamining/entity/ryan-coogler> owl:sameAs <http://www.wikidata.org/entity/Q7383978> .
+
+<http://example.org/webdatamining/entity/santa-fe> owl:sameAs <http://www.wikidata.org/entity/Q44244> .
+
+<http://example.org/webdatamining/entity/saul-goodman> owl:sameAs <http://www.wikidata.org/entity/Q7154377> .
+
+<http://example.org/webdatamining/entity/scarface> owl:sameAs <http://www.wikidata.org/entity/Q47075> .
+
+<http://example.org/webdatamining/entity/seinfeld> owl:sameAs <http://www.wikidata.org/entity/Q23733> .
+
+<http://example.org/webdatamining/entity/senate> owl:sameAs <http://www.wikidata.org/entity/Q2570643> .
+
+<http://example.org/webdatamining/entity/sidney-skolsky> owl:sameAs <http://www.wikidata.org/entity/Q3960172> .
+
+<http://example.org/webdatamining/entity/sinners> owl:sameAs <http://www.wikidata.org/entity/Q7524696> .
+
+<http://example.org/webdatamining/entity/sony-pictures-television> owl:sameAs <http://www.wikidata.org/entity/Q652390> .
+
+<http://example.org/webdatamining/entity/spain> owl:sameAs <http://www.wikidata.org/entity/Q29> .
+
+<http://example.org/webdatamining/entity/star-wars> owl:sameAs <http://www.wikidata.org/entity/Q27563322> .
+
+<http://example.org/webdatamining/entity/steven-spielberg> owl:sameAs <http://www.wikidata.org/entity/Q8877> .
+
+<http://example.org/webdatamining/entity/strauss> owl:sameAs <http://www.wikidata.org/entity/Q1341990> .
+
+<http://example.org/webdatamining/entity/superman> owl:sameAs <http://www.wikidata.org/entity/Q213053> .
+
+<http://example.org/webdatamining/entity/tenet> owl:sameAs <http://www.wikidata.org/entity/Q63985561> .
+
+<http://example.org/webdatamining/entity/the-dark-knight> owl:sameAs <http://www.wikidata.org/entity/Q163872> .
+
+<http://example.org/webdatamining/entity/the-dark-knight-rises> owl:sameAs <http://www.wikidata.org/entity/Q189330> .
+
+<http://example.org/webdatamining/entity/the-department-of-energy> owl:sameAs <http://www.wikidata.org/entity/Q84287366> .
+
+<http://example.org/webdatamining/entity/the-new-york-times> owl:sameAs <http://www.wikidata.org/entity/Q9684> .
+
+<http://example.org/webdatamining/entity/the-prestige> owl:sameAs <http://www.wikidata.org/entity/Q46551> .
+
+<http://example.org/webdatamining/entity/the-university-of-cambridge> owl:sameAs <http://www.wikidata.org/entity/Q28765395> .
+
+<http://example.org/webdatamining/entity/the-x> owl:sameAs <http://www.wikidata.org/entity/Q136242657> .
+
+<http://example.org/webdatamining/entity/timoth-e-chalamet> owl:sameAs <http://www.wikidata.org/entity/Q19877770> .
+
+<http://example.org/webdatamining/entity/titanic> owl:sameAs <http://www.wikidata.org/entity/Q44578> .
+
+<http://example.org/webdatamining/entity/todd-alquist> owl:sameAs <http://www.wikidata.org/entity/Q16002669> .
+
+<http://example.org/webdatamining/entity/tony-montana> owl:sameAs <http://www.wikidata.org/entity/Q60579511> .
+
+<http://example.org/webdatamining/entity/university-college-london> owl:sameAs <http://www.wikidata.org/entity/Q193196> .
+
+<http://example.org/webdatamining/entity/walter-white> owl:sameAs <http://www.wikidata.org/entity/Q23554> .
+
+<http://example.org/webdatamining/entity/wunmi-mosaku> owl:sameAs <http://www.wikidata.org/entity/Q541803> .
+
+<http://example.org/webdatamining/property/fault> owl:equivalentProperty <http://www.wikidata.org/entity/P5095> .
+

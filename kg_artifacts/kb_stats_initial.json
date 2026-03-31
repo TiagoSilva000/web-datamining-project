@@ -1,0 +1,8 @@
+{
+  "total_triples": 1549,
+  "entity_count": 374,
+  "relation_count": 49,
+  "kept_relation_assertions": 57,
+  "filtered_low_confidence_relations": 391,
+  "base_uri": "http://example.org/webdatamining/"
+}
