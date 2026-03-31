@@ -1,0 +1,47 @@
+[
+  {
+    "question": "Who is Christopher Nolan?",
+    "baseline": "Christopher Nolan is a highly acclaimed British-American film director known for his complex, often non-linear narratives and ambitious, visually stunning films like *Inception*, *The Dark Knight*, and *Interstellar*.",
+    "rag_query": "SELECT ?s ?p ?o WHERE {\n  ?s ?p ?o .\n  FILTER(REGEX(STR(?s), \"Christopher|Nolan\", \"i\"))\n}\nLIMIT 30",
+    "rag_repaired": true,
+    "rag_error": null,
+    "rag_result_count": 21,
+    "rag_first_row": "http://example.org/webdatamining/entity/christopher-nolan | http://www.w3.org/1999/02/22-rdf-syntax-ns#type | http://www.w3.org/2002/07/owl#NamedIndividual"
+  },
+  {
+    "question": "What is Interstellar?",
+    "baseline": "Interstellar is a 2014 science fiction film about a team of explorers traveling through space and time to find a new home for humanity as Earth becomes uninhabitable.",
+    "rag_query": "SELECT ?s ?p ?o WHERE {\n  ?s ?p ?o .\n  FILTER(REGEX(STR(?s), \"Interstellar\", \"i\"))\n}\nLIMIT 30",
+    "rag_repaired": true,
+    "rag_error": null,
+    "rag_result_count": 6,
+    "rag_first_row": "http://example.org/webdatamining/entity/interstellar | http://example.org/webdatamining/property/gross | http://example.org/webdatamining/entity/203-2-million"
+  },
+  {
+    "question": "What is Oppenheimer?",
+    "baseline": "J. Robert Oppenheimer was the theoretical physicist who led the Manhattan Project, which developed the first atomic bombs.",
+    "rag_query": "SELECT ?s ?p ?o WHERE {\n  ?s ?p ?o .\n  FILTER(REGEX(STR(?s), \"Oppenheimer\", \"i\"))\n}\nLIMIT 30",
+    "rag_repaired": true,
+    "rag_error": null,
+    "rag_result_count": 26,
+    "rag_first_row": "http://example.org/webdatamining/entity/oppenheimer | http://www.w3.org/1999/02/22-rdf-syntax-ns#type | http://example.org/webdatamining/ontology/Organization"
+  },
+  {
+    "question": "What is an Academy Award?",
+    "baseline": "It’s the highest honor in the film industry, recognizing outstanding cinematic achievements at the annual Academy Awards ceremony.",
+    "rag_query": "SELECT ?s ?p ?o WHERE {\n  ?s ?p ?o .\n  FILTER(REGEX(STR(?s), \"an|Academy|Award\", \"i\"))\n}\nLIMIT 30",
+    "rag_repaired": true,
+    "rag_error": null,
+    "rag_result_count": 30,
+    "rag_first_row": "http://example.org/webdatamining/entity/saul-goodman | http://www.w3.org/2002/07/owl#sameAs | http://www.wikidata.org/entity/Q7154377"
+  },
+  {
+    "question": "Who is J. Robert Oppenheimer?",
+    "baseline": "J. Robert Oppenheimer was the theoretical physicist who led the Manhattan Project, which developed the first atomic bombs.",
+    "rag_query": "SELECT ?s ?p ?o WHERE {\n  ?s ?p ?o .\n  FILTER(REGEX(STR(?s), \"J|Robert|Oppenheimer\", \"i\"))\n}\nLIMIT 30",
+    "rag_repaired": true,
+    "rag_error": null,
+    "rag_result_count": 30,
+    "rag_first_row": "http://example.org/webdatamining/entity/jane | http://www.w3.org/1999/02/22-rdf-syntax-ns#type | http://example.org/webdatamining/ontology/Person"
+  }
+]

@@ -1,0 +1,15 @@
+1) Start Ollama and make sure the model works:
+   ollama run gemma3
+
+2) In a new terminal, launch the interactive RAG chatbot from the repo root:
+   py src/rag/rag_sparql_chat.py \
+     --graph kg_artifacts/expanded_clean.nt \
+     --model gemma3
+
+3) Run the 5-question baseline-vs-RAG evaluation:
+   py src/rag/evaluate_rag.py \
+     --graph kg_artifacts/expanded_clean.nt \
+     --questions data/samples/lab6_questions_movies_tv.txt \
+     --model gemma3 \
+     --csv-out reports/lab6_eval.csv \
+     --json-out reports/lab6_eval.json
