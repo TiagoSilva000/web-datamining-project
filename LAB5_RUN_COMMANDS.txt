@@ -1,0 +1,35 @@
+# Lab 5 - suggested commands
+
+# 1) SWRL reasoning on family.owl
+py src/reason/reason_family_swrl.py ^
+  --input family.owl ^
+  --output-ontology kg_artifacts/family_inferred.owl ^
+  --report-json reports/lab5_family_reasoning.json ^
+  --report-txt reports/lab5_family_reasoning.txt
+
+# If Owlready2 cannot find Java automatically on Windows, add:
+#   --java-exe "C:\Program Files\Java\jdk-XX\bin\java.exe"
+
+# 2) Prepare leakage-resistant train/valid/test splits for KGE
+py src/kge/prepare_kge_splits.py ^
+  --input kg_artifacts/expanded_clean.nt ^
+  --train-out data/kge/train.txt ^
+  --valid-out data/kge/valid.txt ^
+  --test-out data/kge/test.txt ^
+  --stats-out kg_artifacts/kge_split_stats.json
+
+# 3) Train and evaluate 2 models (default: TransE and ComplEx), including size sensitivity
+# Full graph is about 49k triples, so the "50k" and "full" runs will be almost the same.
+py src/kge/train_kge_models.py ^
+  --train data/kge/train.txt ^
+  --valid data/kge/valid.txt ^
+  --test data/kge/test.txt ^
+  --graph-file kg_artifacts/expanded_clean.nt ^
+  --output-dir reports/kge_runs ^
+  --models TransE ComplEx ^
+  --sizes 20000 50000 0 ^
+  --embedding-dim 100 ^
+  --epochs 20 ^
+  --batch-size 256 ^
+  --learning-rate 0.001 ^
+  --num-negs-per-pos 10

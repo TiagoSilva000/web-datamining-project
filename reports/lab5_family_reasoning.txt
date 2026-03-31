@@ -1,0 +1,51 @@
+Lab 5 - family.owl SWRL reasoning
+
+Input ontology: C:\Users\tagom\web-datamining-project\family.owl
+Output ontology: kg_artifacts\family_inferred.owl
+Person class: Person
+Age property: age
+Rule: Person(?p), age(?p, ?a), greaterThan(?a, 60) -> oldPerson(?p)
+Reasoner status: manual_fallback
+
+Reasoner/Pellet error (fallback used):
+Java error message is:
+Exception in thread "main" java.lang.UnsupportedClassVersionError: org/apache/jena/riot/lang/LangRDFXML has been compiled by a more recent version of the Java Runtime (class file version 69.0), this version of the Java Runtime only recognizes class file versions up to 52.0
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at java.security.SecureClassLoader.defineClass(Unknown Source)
+	at java.net.URLClassLoader.defineClass(Unknown Source)
+	at java.net.URLClassLoader.access$100(Unknown Source)
+	at java.net.URLClassLoader$1.run(Unknown Source)
+	at java.net.URLClassLoader$1.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at org.apache.jena.riot.RiotReader.createParser(RiotReader.java:128)
+	at org.apache.jena.riot.RDFParserRegistry$ReaderRIOTFactoryImpl$1.read(RDFParserRegistry.java:147)
+	at org.apache.jena.riot.RDFDataMgr.process(RDFDataMgr.java:751)
+	at org.apache.jena.riot.RDFDataMgr.read(RDFDataMgr.java:258)
+	at org.apache.jena.riot.RDFDataMgr.read(RDFDataMgr.java:244)
+	at org.apache.jena.riot.adapters.RDFReaderRIOT.read(RDFReaderRIOT.java:65)
+	at com.hp.hpl.jena.rdf.model.impl.ModelCom.read(ModelCom.java:276)
+	at com.hp.hpl.jena.ontology.OntDocumentManager.findMetadata(OntDocumentManager.java:891)
+	at com.hp.hpl.jena.ontology.OntDocumentManager.initialiseMetadata(OntDocumentManager.java:849)
+	at com.hp.hpl.jena.ontology.OntDocumentManager.<init>(OntDocumentManager.java:197)
+	at com.hp.hpl.jena.ontology.OntDocumentManager.<init>(OntDocumentManager.java:179)
+	at com.hp.hpl.jena.ontology.OntDocumentManager.<init>(OntDocumentManager.java:163)
+	at com.hp.hpl.jena.ontology.OntDocumentManager.getInstance(OntDocumentManager.java:241)
+	at com.hp.hpl.jena.ontology.OntModelSpec.getDocumentManager(OntModelSpec.java:320)
+	at com.hp.hpl.jena.ontology.OntModelSpec.<init>(OntModelSpec.java:207)
+	at org.mindswap.pellet.jena.PelletReasonerFactory.<clinit>(PelletReasonerFactory.java:57)
+	at org.mindswap.pellet.jena.JenaLoader.clear(JenaLoader.java:84)
+	at org.mindswap.pellet.jena.JenaLoader.<init>(JenaLoader.java:42)
+	at pellet.PelletCmdApp.getLoader(PelletCmdApp.java:262)
+	at pellet.PelletCmdApp.getLoader(PelletCmdApp.java:257)
+	at pellet.PelletCmdApp.getKB(PelletCmdApp.java:220)
+	at pellet.PelletRealize.run(PelletRealize.java:67)
+	at pellet.Pellet.run(Pellet.java:105)
+	at pellet.Pellet.main(Pellet.java:59)
+
+
+oldPerson instances found: 0

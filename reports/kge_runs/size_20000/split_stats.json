@@ -1,0 +1,7 @@
+{
+  "train_triples": 16000,
+  "valid_triples": 2000,
+  "test_triples": 2000,
+  "entity_count": 12414,
+  "relation_count": 433
+}

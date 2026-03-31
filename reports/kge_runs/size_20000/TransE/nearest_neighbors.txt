@@ -1,0 +1,119 @@
+Entity: http://www.wikidata.org/entity/Q691
+  - http://www.wikidata.org/entity/Q461197 | cosine=0.3863
+  - http://www.wikidata.org/entity/Q104238 | cosine=0.3650
+  - http://www.wikidata.org/entity/Q142 | cosine=0.3568
+  - http://www.wikidata.org/entity/Q33516 | cosine=0.3469
+  - http://www.wikidata.org/entity/Q668 | cosine=0.3462
+  - http://www.wikidata.org/entity/Q30 | cosine=0.3200
+  - http://www.wikidata.org/entity/Q16781948 | cosine=0.3193
+  - http://www.wikidata.org/entity/Q44679 | cosine=0.3164
+  - http://www.wikidata.org/entity/Q965 | cosine=0.3162
+  - http://www.wikidata.org/entity/Q686 | cosine=0.3114
+
+Entity: http://www.wikidata.org/entity/Q668
+  - http://www.wikidata.org/entity/Q36 | cosine=0.4041
+  - http://www.wikidata.org/entity/Q96 | cosine=0.3706
+  - http://www.wikidata.org/entity/Q974 | cosine=0.3620
+  - http://www.wikidata.org/entity/Q836 | cosine=0.3546
+  - http://example.org/webdatamining/entity/spielberg | cosine=0.3498
+  - http://www.wikidata.org/entity/Q962 | cosine=0.3491
+  - http://www.wikidata.org/entity/Q826 | cosine=0.3472
+  - http://www.wikidata.org/entity/Q6553998 | cosine=0.3468
+  - http://www.wikidata.org/entity/Q691 | cosine=0.3462
+  - http://www.wikidata.org/entity/Q734 | cosine=0.3450
+
+Entity: http://www.wikidata.org/entity/Q408
+  - http://www.wikidata.org/entity/Q38 | cosine=0.4353
+  - http://www.wikidata.org/entity/Q869 | cosine=0.4083
+  - http://www.wikidata.org/entity/Q96 | cosine=0.3992
+  - http://www.wikidata.org/entity/Q155 | cosine=0.3820
+  - http://www.wikidata.org/entity/Q822 | cosine=0.3784
+  - http://www.wikidata.org/entity/Q414 | cosine=0.3717
+  - http://www.wikidata.org/entity/Q1008 | cosine=0.3680
+  - http://www.wikidata.org/entity/Q6256 | cosine=0.3607
+  - http://www.wikidata.org/entity/Q971 | cosine=0.3606
+  - http://www.wikidata.org/entity/Q884 | cosine=0.3563
+
+Entity: http://www.wikidata.org/entity/Q30
+  - http://www.wikidata.org/entity/Q218 | cosine=0.3952
+  - http://www.wikidata.org/entity/Q43 | cosine=0.3944
+  - http://www.wikidata.org/entity/Q219 | cosine=0.3855
+  - http://www.wikidata.org/entity/Q40 | cosine=0.3835
+  - http://www.wikidata.org/entity/Q1013 | cosine=0.3814
+  - http://www.wikidata.org/entity/Q983 | cosine=0.3671
+  - http://www.wikidata.org/entity/Q33 | cosine=0.3641
+  - http://www.wikidata.org/entity/Q1246 | cosine=0.3554
+  - http://www.wikidata.org/entity/Q804 | cosine=0.3408
+  - http://www.wikidata.org/entity/Q1011 | cosine=0.3389
+
+Entity: http://www.wikidata.org/entity/Q148
+  - http://www.wikidata.org/entity/Q734 | cosine=0.4830
+  - http://www.wikidata.org/entity/Q183 | cosine=0.4739
+  - http://www.wikidata.org/entity/Q801 | cosine=0.4440
+  - http://www.wikidata.org/entity/Q902 | cosine=0.4423
+  - http://www.wikidata.org/entity/Q1009 | cosine=0.4160
+  - http://www.wikidata.org/entity/Q423 | cosine=0.4107
+  - http://www.wikidata.org/entity/Q145 | cosine=0.3983
+  - http://www.wikidata.org/entity/Q796 | cosine=0.3967
+  - http://www.wikidata.org/entity/Q917 | cosine=0.3828
+  - http://www.wikidata.org/entity/Q794 | cosine=0.3792
+
+Entity: http://www.wikidata.org/entity/Q96
+  - http://www.wikidata.org/entity/Q33 | cosine=0.4857
+  - http://www.wikidata.org/entity/Q41 | cosine=0.4676
+  - http://www.wikidata.org/entity/Q155 | cosine=0.4349
+  - http://www.wikidata.org/entity/Q884 | cosine=0.4310
+  - http://www.wikidata.org/entity/Q833 | cosine=0.4149
+  - http://www.wikidata.org/entity/Q408 | cosine=0.3992
+  - http://www.wikidata.org/entity/Q1093867 | cosine=0.3825
+  - http://www.wikidata.org/entity/Q142 | cosine=0.3820
+  - http://www.wikidata.org/entity/Q977 | cosine=0.3803
+  - http://www.wikidata.org/entity/Q668 | cosine=0.3706
+
+Entity: http://www.wikidata.org/entity/Q98
+  - http://example.org/webdatamining/entity/michael-b-jordan | cosine=0.3522
+  - http://www.wikidata.org/entity/Q25173 | cosine=0.3502
+  - http://www.wikidata.org/entity/Q3236437 | cosine=0.3329
+  - http://www.wikidata.org/entity/Q43934 | cosine=0.3276
+  - http://www.wikidata.org/entity/Q7925797 | cosine=0.3217
+  - http://www.wikidata.org/entity/Q4804674 | cosine=0.3217
+  - http://www.wikidata.org/entity/Q22676587 | cosine=0.3208
+  - http://www.wikidata.org/entity/Q12952800 | cosine=0.3183
+  - http://www.wikidata.org/entity/Q2166295 | cosine=0.3167
+  - http://www.wikidata.org/entity/Q182016 | cosine=0.3122
+
+Entity: http://www.wikidata.org/entity/Q2041543
+  - http://www.wikidata.org/entity/Q23857530 | cosine=0.3622
+  - http://www.wikidata.org/entity/Q138479019 | cosine=0.3353
+  - http://www.wikidata.org/entity/Q12028158 | cosine=0.3293
+  - http://www.wikidata.org/entity/Q833933 | cosine=0.3237
+  - http://www.wikidata.org/entity/Q1285504 | cosine=0.3225
+  - http://www.wikidata.org/entity/Q3140 | cosine=0.3181
+  - http://www.wikidata.org/entity/Q1931221 | cosine=0.3173
+  - http://www.wikidata.org/entity/Q7567753 | cosine=0.3163
+  - http://www.wikidata.org/entity/Q14911897 | cosine=0.3090
+  - http://www.wikidata.org/entity/Q7850 | cosine=0.3089
+
+Entity: http://www.wikidata.org/entity/Q183
+  - http://www.wikidata.org/entity/Q148 | cosine=0.4739
+  - http://www.wikidata.org/entity/Q39382 | cosine=0.3914
+  - http://www.wikidata.org/entity/Q334 | cosine=0.3831
+  - http://www.wikidata.org/entity/Q25648798 | cosine=0.3801
+  - http://www.wikidata.org/entity/Q23445 | cosine=0.3640
+  - http://www.wikidata.org/entity/Q145 | cosine=0.3564
+  - http://www.wikidata.org/entity/Q794 | cosine=0.3561
+  - http://www.wikidata.org/entity/Q945 | cosine=0.3527
+  - http://www.wikidata.org/entity/Q843 | cosine=0.3512
+  - http://www.wikidata.org/entity/Q298 | cosine=0.3497
+
+Entity: http://www.wikidata.org/entity/Q1009
+  - http://www.wikidata.org/entity/Q148 | cosine=0.4160
+  - http://www.wikidata.org/entity/Q1025 | cosine=0.3982
+  - http://www.wikidata.org/entity/Q34 | cosine=0.3828
+  - http://www.wikidata.org/entity/Q833633 | cosine=0.3624
+  - http://www.wikidata.org/entity/Q159 | cosine=0.3415
+  - http://www.wikidata.org/entity/Q20732356 | cosine=0.3389
+  - http://www.wikidata.org/entity/Q928 | cosine=0.3331
+  - http://www.wikidata.org/entity/Q974 | cosine=0.3266
+  - http://www.wikidata.org/entity/Q94081 | cosine=0.3230
+  - http://www.wikidata.org/entity/Q6748872 | cosine=0.3186

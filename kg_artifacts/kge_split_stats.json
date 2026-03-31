@@ -1,0 +1,21 @@
+{
+  "input_file": "kg_artifacts\\expanded_clean.nt",
+  "original_uri_triple_count": 49253,
+  "used_uri_triple_count": 49253,
+  "train": {
+    "triple_count": 39403,
+    "entity_count": 26765,
+    "relation_count": 549
+  },
+  "valid": {
+    "triple_count": 4925,
+    "entity_count": 2161,
+    "relation_count": 243
+  },
+  "test": {
+    "triple_count": 4925,
+    "entity_count": 2064,
+    "relation_count": 226
+  },
+  "seed": 42
+}

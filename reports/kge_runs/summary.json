@@ -1,0 +1,96 @@
+{
+  "config": {
+    "models": [
+      "TransE",
+      "ComplEx"
+    ],
+    "sizes": [
+      20000,
+      49253
+    ],
+    "embedding_dim": 100,
+    "epochs": 20,
+    "batch_size": 256,
+    "learning_rate": 0.001,
+    "num_negs_per_pos": 10,
+    "seed": 42
+  },
+  "results": [
+    {
+      "size": 20000,
+      "model": "TransE",
+      "both_mrr": 0.03664080426096916,
+      "head_mrr": 0.02712307684123516,
+      "tail_mrr": 0.046158529818058014,
+      "both_hits@1": 0.0065,
+      "both_hits@3": 0.0355,
+      "both_hits@10": 0.093,
+      "head_hits@10": 0.066,
+      "tail_hits@10": 0.12,
+      "entity_count": 12414,
+      "relation_count": 433
+    },
+    {
+      "size": 20000,
+      "model": "ComplEx",
+      "both_mrr": 0.0010469653643667698,
+      "head_mrr": 0.001041682786308229,
+      "tail_mrr": 0.0010522480588406324,
+      "both_hits@1": 0.0005,
+      "both_hits@3": 0.0005,
+      "both_hits@10": 0.001,
+      "head_hits@10": 0.001,
+      "tail_hits@10": 0.001,
+      "entity_count": 12414,
+      "relation_count": 433
+    },
+    {
+      "size": 49253,
+      "model": "TransE",
+      "both_mrr": 0.09477821737527847,
+      "head_mrr": 0.076612688601017,
+      "tail_mrr": 0.11294373869895935,
+      "both_hits@1": 0.02598984771573604,
+      "both_hits@3": 0.10862944162436548,
+      "both_hits@10": 0.22426395939086294,
+      "head_hits@10": 0.18883248730964466,
+      "tail_hits@10": 0.25969543147208124,
+      "entity_count": 26765,
+      "relation_count": 549
+    },
+    {
+      "size": 49253,
+      "model": "ComplEx",
+      "both_mrr": 0.0016343195457011461,
+      "head_mrr": 0.0017525892471894622,
+      "tail_mrr": 0.0015160504262894392,
+      "both_hits@1": 0.0006091370558375635,
+      "both_hits@3": 0.0015228426395939086,
+      "both_hits@10": 0.0026395939086294416,
+      "head_hits@10": 0.0026395939086294416,
+      "tail_hits@10": 0.0026395939086294416,
+      "entity_count": 26765,
+      "relation_count": 549
+    }
+  ],
+  "best_run": {
+    "score": 0.09477821737527847,
+    "size": 49253,
+    "model": "TransE",
+    "run_dir": "reports\\kge_runs\\size_49253\\TransE",
+    "row": {
+      "size": 49253,
+      "model": "TransE",
+      "both_mrr": 0.09477821737527847,
+      "head_mrr": 0.076612688601017,
+      "tail_mrr": 0.11294373869895935,
+      "both_hits@1": 0.02598984771573604,
+      "both_hits@3": 0.10862944162436548,
+      "both_hits@10": 0.22426395939086294,
+      "head_hits@10": 0.18883248730964466,
+      "tail_hits@10": 0.25969543147208124,
+      "entity_count": 26765,
+      "relation_count": 549
+    }
+  }
+}
