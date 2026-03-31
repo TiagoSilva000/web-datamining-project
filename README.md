@@ -142,14 +142,24 @@ py src/rag/evaluate_rag.py --graph kg_artifacts/expanded_clean.nt --questions da
 - reports/lab6_eval.csv
 - reports/lab6_eval.json
 
-## Screenshot
+## Screenshots
 
-Add at least one screenshot here before submission:
-reports/screenshots/rag_demo.png
+The repository includes two example screenshots in:
 
-A good choice is:
-- a screenshot of the RAG CLI running
-- or a screenshot of the evaluation output
+- `reports/screenshots/rag_demo.png`
+- `reports/screenshots/kge_results.png`
+
+### 1. RAG demo screenshot
+`rag_demo.png` shows the interactive RDF/SPARQL chatbot running on the local knowledge graph with:
+- a natural-language question
+- the baseline answer without RAG
+- the grounded SPARQL-based result from the local graph
+
+### 2. KGE results screenshot
+`kge_results.png` shows the summary table of KGE experiments, including:
+- TransE and ComplEx
+- 20k and full-dataset settings
+- MRR and Hits@1/3/10 metrics
 
 ## Notes
 
