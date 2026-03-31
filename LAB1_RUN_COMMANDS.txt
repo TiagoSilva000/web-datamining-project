@@ -1,0 +1,9 @@
+1) Install dependencies
+pip install -r requirements.txt
+python -m spacy download en_core_web_trf
+
+2) Crawl and clean the seed URLs
+python src/crawl/crawl_and_clean.py --input data/samples/seed_urls_movies_tv.txt --output data/processed/crawler_output.jsonl
+
+3) Extract entities and candidate relations
+python src/ie/extract_knowledge.py --input data/processed/crawler_output.jsonl --entity-output data/processed/extracted_knowledge.csv --relation-output data/processed/relation_candidates.csv

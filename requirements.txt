@@ -1,5 +1,4 @@
 httpx
-requests
 trafilatura
 spacy
 pandas
@@ -8,4 +7,3 @@ owlready2
 pykeen
 scikit-learn
 matplotlib
-requests
